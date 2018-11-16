@@ -1,0 +1,1160 @@
+MultilayerPerceptron (59.447) -L 0.1 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 2
+74.0 44.0 
+44.0 55.0 
+
+Correctas 59.447
+Incorrectas 40.553
+Error Abs Medio 0.444
+Error Cuadratico Medio 0.568
+Error Abs Relativo 89.518
+Error Cuadratico relativo 114.067
+Kappa 0.183
+Clase S
+precision: 0.627
+recall: 0.627
+roc: 0.584
+Clase F
+precision: 0.556
+recall: 0.556
+roc: 0.584
+
+IBk (58.525) -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.FilteredDistance -R first-last -F \"weka.filters.unsupervised.attribute.RandomProjection -N 10 -R 42 -D Sparse1\" -D \"weka.core.EuclideanDistance -R first-last\""
+78.0 40.0 
+50.0 49.0 
+
+Correctas 58.525
+Incorrectas 41.475
+Error Abs Medio 0.452
+Error Cuadratico Medio 0.530
+Error Abs Relativo 91.040
+Error Cuadratico relativo 106.465
+Kappa 0.157
+Clase S
+precision: 0.609
+recall: 0.661
+roc: 0.605
+Clase F
+precision: 0.551
+recall: 0.495
+roc: 0.605
+
+Bagging (58.525) -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.bayes.NaiveBayes
+91.0 27.0 
+63.0 36.0 
+
+Correctas 58.525
+Incorrectas 41.475
+Error Abs Medio 0.449
+Error Cuadratico Medio 0.532
+Error Abs Relativo 90.387
+Error Cuadratico relativo 106.838
+Kappa 0.139
+Clase S
+precision: 0.591
+recall: 0.771
+roc: 0.590
+Clase F
+precision: 0.571
+recall: 0.364
+roc: 0.590
+
+MultilayerPerceptron (58.065) -L 0.1 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2
+74.0 44.0 
+47.0 52.0 
+
+Correctas 58.065
+Incorrectas 41.935
+Error Abs Medio 0.456
+Error Cuadratico Medio 0.582
+Error Abs Relativo 91.964
+Error Cuadratico relativo 116.913
+Kappa 0.153
+Clase S
+precision: 0.612
+recall: 0.627
+roc: 0.560
+Clase F
+precision: 0.542
+recall: 0.525
+roc: 0.560
+
+SMO (57.604) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 2.0 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+73.0 45.0 
+47.0 52.0 
+
+Correctas 57.604
+Incorrectas 42.396
+Error Abs Medio 0.424
+Error Cuadratico Medio 0.651
+Error Abs Relativo 85.435
+Error Cuadratico relativo 130.718
+Kappa 0.144
+Clase S
+precision: 0.608
+recall: 0.619
+roc: 0.572
+Clase F
+precision: 0.536
+recall: 0.525
+roc: 0.572
+
+SMO (57.143) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 1.5 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+74.0 44.0 
+49.0 50.0 
+
+Correctas 57.143
+Incorrectas 42.857
+Error Abs Medio 0.429
+Error Cuadratico Medio 0.655
+Error Abs Relativo 86.364
+Error Cuadratico relativo 131.426
+Kappa 0.133
+Clase S
+precision: 0.602
+recall: 0.627
+roc: 0.566
+Clase F
+precision: 0.532
+recall: 0.505
+roc: 0.566
+
+SMO (56.682) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 5.0 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+73.0 45.0 
+49.0 50.0 
+
+Correctas 56.682
+Incorrectas 43.318
+Error Abs Medio 0.433
+Error Cuadratico Medio 0.658
+Error Abs Relativo 87.293
+Error Cuadratico relativo 132.131
+Kappa 0.124
+Clase S
+precision: 0.598
+recall: 0.619
+roc: 0.562
+Clase F
+precision: 0.526
+recall: 0.505
+roc: 0.562
+
+IBk (56.682) -K 1 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.ManhattanDistance -R first-last"
+72.0 46.0 
+48.0 51.0 
+
+Correctas 56.682
+Incorrectas 43.318
+Error Abs Medio 0.434
+Error Cuadratico Medio 0.655
+Error Abs Relativo 87.429
+Error Cuadratico relativo 131.464
+Kappa 0.126
+Clase S
+precision: 0.600
+recall: 0.610
+roc: 0.555
+Clase F
+precision: 0.526
+recall: 0.515
+roc: 0.555
+
+MultilayerPerceptron (56.221) -L 0.4 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 1
+74.0 44.0 
+51.0 48.0 
+
+Correctas 56.221
+Incorrectas 43.779
+Error Abs Medio 0.475
+Error Cuadratico Medio 0.551
+Error Abs Relativo 95.752
+Error Cuadratico relativo 110.609
+Kappa 0.113
+Clase S
+precision: 0.592
+recall: 0.627
+roc: 0.552
+Clase F
+precision: 0.522
+recall: 0.485
+roc: 0.552
+
+SMO (55.760) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 3.0 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+70.0 48.0 
+48.0 51.0 
+
+Correctas 55.760
+Incorrectas 44.240
+Error Abs Medio 0.442
+Error Cuadratico Medio 0.665
+Error Abs Relativo 89.150
+Error Cuadratico relativo 133.529
+Kappa 0.108
+Clase S
+precision: 0.593
+recall: 0.593
+roc: 0.554
+Clase F
+precision: 0.515
+recall: 0.515
+roc: 0.554
+
+SMO (55.760) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 4.5 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+72.0 46.0 
+50.0 49.0 
+
+Correctas 55.760
+Incorrectas 44.240
+Error Abs Medio 0.442
+Error Cuadratico Medio 0.665
+Error Abs Relativo 89.150
+Error Cuadratico relativo 133.529
+Kappa 0.105
+Clase S
+precision: 0.590
+recall: 0.610
+roc: 0.553
+Clase F
+precision: 0.516
+recall: 0.495
+roc: 0.553
+
+SMO (55.300) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 0.5 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+85.0 33.0 
+64.0 35.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.447
+Error Cuadratico Medio 0.669
+Error Abs Relativo 90.079
+Error Cuadratico relativo 134.223
+Kappa 0.076
+Clase S
+precision: 0.570
+recall: 0.720
+roc: 0.537
+Clase F
+precision: 0.515
+recall: 0.354
+roc: 0.537
+
+SMO (55.300) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 2.5 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+64.0 54.0 
+43.0 56.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.447
+Error Cuadratico Medio 0.669
+Error Abs Relativo 90.079
+Error Cuadratico relativo 134.223
+Kappa 0.107
+Clase S
+precision: 0.598
+recall: 0.542
+roc: 0.554
+Clase F
+precision: 0.509
+recall: 0.566
+roc: 0.554
+
+SMO (55.300) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 4.0 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+71.0 47.0 
+50.0 49.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.447
+Error Cuadratico Medio 0.669
+Error Abs Relativo 90.079
+Error Cuadratico relativo 134.223
+Kappa 0.097
+Clase S
+precision: 0.587
+recall: 0.602
+roc: 0.548
+Clase F
+precision: 0.510
+recall: 0.495
+roc: 0.548
+
+MultilayerPerceptron (55.300) -L 0.30000000000000004 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 1
+73.0 45.0 
+52.0 47.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.471
+Error Cuadratico Medio 0.552
+Error Abs Relativo 94.881
+Error Cuadratico relativo 110.890
+Kappa 0.094
+Clase S
+precision: 0.584
+recall: 0.619
+roc: 0.558
+Clase F
+precision: 0.511
+recall: 0.475
+roc: 0.558
+
+MultilayerPerceptron (55.300) -L 0.4 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 1
+77.0 41.0 
+56.0 43.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.478
+Error Cuadratico Medio 0.554
+Error Abs Relativo 96.366
+Error Cuadratico relativo 111.189
+Kappa 0.088
+Clase S
+precision: 0.579
+recall: 0.653
+roc: 0.550
+Clase F
+precision: 0.512
+recall: 0.434
+roc: 0.550
+
+IBk (55.300) -K 1 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.FilteredDistance -R first-last -F \"weka.filters.unsupervised.attribute.RandomProjection -N 10 -R 42 -D Sparse1\" -D \"weka.core.EuclideanDistance -R first-last\""
+73.0 45.0 
+52.0 47.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.448
+Error Cuadratico Medio 0.665
+Error Abs Relativo 90.187
+Error Cuadratico relativo 133.545
+Kappa 0.094
+Clase S
+precision: 0.584
+recall: 0.619
+roc: 0.562
+Clase F
+precision: 0.511
+recall: 0.475
+roc: 0.562
+
+IBk (55.300) -K 5 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.FilteredDistance -R first-last -F \"weka.filters.unsupervised.attribute.RandomProjection -N 10 -R 42 -D Sparse1\" -D \"weka.core.EuclideanDistance -R first-last\""
+79.0 39.0 
+58.0 41.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.476
+Error Cuadratico Medio 0.525
+Error Abs Relativo 95.846
+Error Cuadratico relativo 105.464
+Kappa 0.085
+Clase S
+precision: 0.577
+recall: 0.669
+roc: 0.549
+Clase F
+precision: 0.513
+recall: 0.414
+roc: 0.549
+
+NaiveBayes (55.300) 
+92.0 26.0 
+71.0 28.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.446
+Error Cuadratico Medio 0.578
+Error Abs Relativo 89.950
+Error Cuadratico relativo 115.959
+Kappa 0.065
+Clase S
+precision: 0.564
+recall: 0.780
+roc: 0.584
+Clase F
+precision: 0.519
+recall: 0.283
+roc: 0.584
+
+AdaBoostM1 (55.300) -P 100 -S 1 -I 10 -W weka.classifiers.bayes.NaiveBayes
+92.0 26.0 
+71.0 28.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.484
+Error Cuadratico Medio 0.528
+Error Abs Relativo 97.543
+Error Cuadratico relativo 105.908
+Kappa 0.065
+Clase S
+precision: 0.564
+recall: 0.780
+roc: 0.499
+Clase F
+precision: 0.519
+recall: 0.283
+roc: 0.499
+
+Bagging (55.300) -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.bayes.BayesNet -- -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+73.0 45.0 
+52.0 47.0 
+
+Correctas 55.300
+Incorrectas 44.700
+Error Abs Medio 0.480
+Error Cuadratico Medio 0.513
+Error Abs Relativo 96.729
+Error Cuadratico relativo 103.043
+Kappa 0.094
+Clase S
+precision: 0.584
+recall: 0.619
+roc: 0.555
+Clase F
+precision: 0.511
+recall: 0.475
+roc: 0.555
+
+SMO (54.839) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 1.0 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+82.0 36.0 
+62.0 37.0 
+
+Correctas 54.839
+Incorrectas 45.161
+Error Abs Medio 0.452
+Error Cuadratico Medio 0.672
+Error Abs Relativo 91.007
+Error Cuadratico relativo 134.913
+Kappa 0.070
+Clase S
+precision: 0.569
+recall: 0.695
+roc: 0.534
+Clase F
+precision: 0.507
+recall: 0.374
+roc: 0.534
+
+AdaBoostM1 (54.839) -P 100 -S 1 -I 10 -W weka.classifiers.trees.J48 -- -C 0.25 -M 2
+67.0 51.0 
+47.0 52.0 
+
+Correctas 54.839
+Incorrectas 45.161
+Error Abs Medio 0.461
+Error Cuadratico Medio 0.640
+Error Abs Relativo 92.862
+Error Cuadratico relativo 128.552
+Kappa 0.093
+Clase S
+precision: 0.588
+recall: 0.568
+roc: 0.559
+Clase F
+precision: 0.505
+recall: 0.525
+roc: 0.559
+
+Bagging (54.839) -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.functions.MultilayerPerceptron -- -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2
+73.0 45.0 
+53.0 46.0 
+
+Correctas 54.839
+Incorrectas 45.161
+Error Abs Medio 0.465
+Error Cuadratico Medio 0.523
+Error Abs Relativo 93.696
+Error Cuadratico relativo 104.959
+Kappa 0.084
+Clase S
+precision: 0.579
+recall: 0.619
+roc: 0.581
+Clase F
+precision: 0.505
+recall: 0.465
+roc: 0.581
+
+IBk (54.378) -K 5 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.ManhattanDistance -R first-last"
+77.0 41.0 
+58.0 41.0 
+
+Correctas 54.378
+Incorrectas 45.622
+Error Abs Medio 0.463
+Error Cuadratico Medio 0.520
+Error Abs Relativo 93.251
+Error Cuadratico relativo 104.401
+Kappa 0.068
+Clase S
+precision: 0.570
+recall: 0.653
+roc: 0.573
+Clase F
+precision: 0.500
+recall: 0.414
+roc: 0.573
+
+Bagging (54.378) -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.lazy.IBk -- -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"
+72.0 46.0 
+53.0 46.0 
+
+Correctas 54.378
+Incorrectas 45.622
+Error Abs Medio 0.475
+Error Cuadratico Medio 0.542
+Error Abs Relativo 95.711
+Error Cuadratico relativo 108.811
+Kappa 0.075
+Clase S
+precision: 0.576
+recall: 0.610
+roc: 0.543
+Clase F
+precision: 0.500
+recall: 0.465
+roc: 0.543
+
+MultilayerPerceptron (53.917) -L 0.1 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 1
+72.0 46.0 
+54.0 45.0 
+
+Correctas 53.917
+Incorrectas 46.083
+Error Abs Medio 0.472
+Error Cuadratico Medio 0.548
+Error Abs Relativo 95.045
+Error Cuadratico relativo 110.044
+Kappa 0.065
+Clase S
+precision: 0.571
+recall: 0.610
+roc: 0.568
+Clase F
+precision: 0.495
+recall: 0.455
+roc: 0.568
+
+MultilayerPerceptron (53.917) -L 0.30000000000000004 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 1
+74.0 44.0 
+56.0 43.0 
+
+Correctas 53.917
+Incorrectas 46.083
+Error Abs Medio 0.474
+Error Cuadratico Medio 0.557
+Error Abs Relativo 95.494
+Error Cuadratico relativo 111.773
+Kappa 0.062
+Clase S
+precision: 0.569
+recall: 0.627
+roc: 0.549
+Clase F
+precision: 0.494
+recall: 0.434
+roc: 0.549
+
+MultilayerPerceptron (53.917) -L 0.2 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 2
+67.0 51.0 
+49.0 50.0 
+
+Correctas 53.917
+Incorrectas 46.083
+Error Abs Medio 0.480
+Error Cuadratico Medio 0.600
+Error Abs Relativo 96.627
+Error Cuadratico relativo 120.438
+Kappa 0.073
+Clase S
+precision: 0.578
+recall: 0.568
+roc: 0.533
+Clase F
+precision: 0.495
+recall: 0.505
+roc: 0.533
+
+SMO (53.456) -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K weka.classifiers.functions.supportVector.PolyKernel -E 3.5 -C 250007 -calibrator weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+68.0 50.0 
+51.0 48.0 
+
+Correctas 53.456
+Incorrectas 46.544
+Error Abs Medio 0.465
+Error Cuadratico Medio 0.682
+Error Abs Relativo 93.793
+Error Cuadratico relativo 136.963
+Kappa 0.061
+Clase S
+precision: 0.571
+recall: 0.576
+roc: 0.531
+Clase F
+precision: 0.490
+recall: 0.485
+roc: 0.531
+
+IBk (53.456) -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.ChebyshevDistance -R first-last"
+84.0 34.0 
+67.0 32.0 
+
+Correctas 53.456
+Incorrectas 46.544
+Error Abs Medio 0.478
+Error Cuadratico Medio 0.553
+Error Abs Relativo 96.400
+Error Cuadratico relativo 111.114
+Kappa 0.036
+Clase S
+precision: 0.556
+recall: 0.712
+roc: 0.518
+Clase F
+precision: 0.485
+recall: 0.323
+roc: 0.518
+
+IBk (53.456) -K 5 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.ChebyshevDistance -R first-last"
+95.0 23.0 
+78.0 21.0 
+
+Correctas 53.456
+Incorrectas 46.544
+Error Abs Medio 0.481
+Error Cuadratico Medio 0.521
+Error Abs Relativo 96.881
+Error Cuadratico relativo 104.557
+Kappa 0.018
+Clase S
+precision: 0.549
+recall: 0.805
+roc: 0.548
+Clase F
+precision: 0.477
+recall: 0.212
+roc: 0.548
+
+IBk (53.456) -K 5 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"
+79.0 39.0 
+62.0 37.0 
+
+Correctas 53.456
+Incorrectas 46.544
+Error Abs Medio 0.474
+Error Cuadratico Medio 0.531
+Error Abs Relativo 95.475
+Error Cuadratico relativo 106.649
+Kappa 0.044
+Clase S
+precision: 0.560
+recall: 0.669
+roc: 0.536
+Clase F
+precision: 0.487
+recall: 0.374
+roc: 0.536
+
+IBk (53.456) -K 5 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.MinkowskiDistance -P 2.0 -R first-last"
+79.0 39.0 
+62.0 37.0 
+
+Correctas 53.456
+Incorrectas 46.544
+Error Abs Medio 0.474
+Error Cuadratico Medio 0.531
+Error Abs Relativo 95.475
+Error Cuadratico relativo 106.649
+Kappa 0.044
+Clase S
+precision: 0.560
+recall: 0.669
+roc: 0.536
+Clase F
+precision: 0.487
+recall: 0.374
+roc: 0.536
+
+MultilayerPerceptron (52.995) -L 0.1 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 1
+72.0 46.0 
+56.0 43.0 
+
+Correctas 52.995
+Incorrectas 47.005
+Error Abs Medio 0.470
+Error Cuadratico Medio 0.548
+Error Abs Relativo 94.803
+Error Cuadratico relativo 110.099
+Kappa 0.045
+Clase S
+precision: 0.563
+recall: 0.610
+roc: 0.570
+Clase F
+precision: 0.483
+recall: 0.434
+roc: 0.570
+
+IBk (52.995) -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.ManhattanDistance -R first-last"
+70.0 48.0 
+54.0 45.0 
+
+Correctas 52.995
+Incorrectas 47.005
+Error Abs Medio 0.469
+Error Cuadratico Medio 0.562
+Error Abs Relativo 94.434
+Error Cuadratico relativo 112.741
+Kappa 0.048
+Clase S
+precision: 0.565
+recall: 0.593
+roc: 0.529
+Clase F
+precision: 0.484
+recall: 0.455
+roc: 0.529
+
+BayesNet (52.535) -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+72.0 46.0 
+57.0 42.0 
+
+Correctas 52.535
+Incorrectas 47.465
+Error Abs Medio 0.494
+Error Cuadratico Medio 0.520
+Error Abs Relativo 99.618
+Error Cuadratico relativo 104.326
+Kappa 0.035
+Clase S
+precision: 0.558
+recall: 0.610
+roc: 0.520
+Clase F
+precision: 0.477
+recall: 0.424
+roc: 0.520
+
+MultilayerPerceptron (52.074) -L 0.2 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2
+64.0 54.0 
+50.0 49.0 
+
+Correctas 52.074
+Incorrectas 47.926
+Error Abs Medio 0.476
+Error Cuadratico Medio 0.601
+Error Abs Relativo 96.001
+Error Cuadratico relativo 120.726
+Kappa 0.037
+Clase S
+precision: 0.561
+recall: 0.542
+roc: 0.538
+Clase F
+precision: 0.476
+recall: 0.495
+roc: 0.538
+
+J48 (52.074) -C 0.25 -M 2
+67.0 51.0 
+53.0 46.0 
+
+Correctas 52.074
+Incorrectas 47.926
+Error Abs Medio 0.493
+Error Cuadratico Medio 0.622
+Error Abs Relativo 99.273
+Error Cuadratico relativo 124.910
+Kappa 0.032
+Clase S
+precision: 0.558
+recall: 0.568
+roc: 0.497
+Clase F
+precision: 0.474
+recall: 0.465
+roc: 0.497
+
+MultilayerPerceptron (51.613) -L 0.30000000000000004 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2
+57.0 61.0 
+44.0 55.0 
+
+Correctas 51.613
+Incorrectas 48.387
+Error Abs Medio 0.490
+Error Cuadratico Medio 0.595
+Error Abs Relativo 98.773
+Error Cuadratico relativo 119.437
+Kappa 0.038
+Clase S
+precision: 0.564
+recall: 0.483
+roc: 0.518
+Clase F
+precision: 0.474
+recall: 0.556
+roc: 0.518
+
+AdaBoostM1 (51.613) -P 100 -S 1 -I 10 -W weka.classifiers.functions.MultilayerPerceptron -- -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2
+63.0 55.0 
+50.0 49.0 
+
+Correctas 51.613
+Incorrectas 48.387
+Error Abs Medio 0.471
+Error Cuadratico Medio 0.637
+Error Abs Relativo 95.008
+Error Cuadratico relativo 127.829
+Kappa 0.029
+Clase S
+precision: 0.558
+recall: 0.534
+roc: 0.543
+Clase F
+precision: 0.471
+recall: 0.495
+roc: 0.543
+
+AdaBoostM1 (51.613) -P 100 -S 1 -I 10 -W weka.classifiers.bayes.BayesNet -- -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+74.0 44.0 
+61.0 38.0 
+
+Correctas 51.613
+Incorrectas 48.387
+Error Abs Medio 0.495
+Error Cuadratico Medio 0.519
+Error Abs Relativo 99.709
+Error Cuadratico relativo 104.160
+Kappa 0.011
+Clase S
+precision: 0.548
+recall: 0.627
+roc: 0.512
+Clase F
+precision: 0.463
+recall: 0.384
+roc: 0.512
+
+MultilayerPerceptron (51.152) -L 0.2 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 1
+69.0 49.0 
+57.0 42.0 
+
+Correctas 51.152
+Incorrectas 48.848
+Error Abs Medio 0.487
+Error Cuadratico Medio 0.566
+Error Abs Relativo 98.220
+Error Cuadratico relativo 113.570
+Kappa 0.009
+Clase S
+precision: 0.548
+recall: 0.585
+roc: 0.534
+Clase F
+precision: 0.462
+recall: 0.424
+roc: 0.534
+
+IBk (51.152) -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"
+72.0 46.0 
+60.0 39.0 
+
+Correctas 51.152
+Incorrectas 48.848
+Error Abs Medio 0.485
+Error Cuadratico Medio 0.572
+Error Abs Relativo 97.827
+Error Cuadratico relativo 114.823
+Kappa 0.004
+Clase S
+precision: 0.545
+recall: 0.610
+roc: 0.501
+Clase F
+precision: 0.459
+recall: 0.394
+roc: 0.501
+
+IBk (51.152) -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.MinkowskiDistance -P 2.0 -R first-last"
+72.0 46.0 
+60.0 39.0 
+
+Correctas 51.152
+Incorrectas 48.848
+Error Abs Medio 0.485
+Error Cuadratico Medio 0.572
+Error Abs Relativo 97.827
+Error Cuadratico relativo 114.823
+Kappa 0.004
+Clase S
+precision: 0.545
+recall: 0.610
+roc: 0.501
+Clase F
+precision: 0.459
+recall: 0.394
+roc: 0.501
+
+AdaBoostM1 (51.152) -P 100 -S 1 -I 10 -W weka.classifiers.lazy.IBk -- -K 3 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"
+72.0 46.0 
+60.0 39.0 
+
+Correctas 51.152
+Incorrectas 48.848
+Error Abs Medio 0.494
+Error Cuadratico Medio 0.591
+Error Abs Relativo 99.605
+Error Cuadratico relativo 118.716
+Kappa 0.004
+Clase S
+precision: 0.545
+recall: 0.610
+roc: 0.500
+Clase F
+precision: 0.459
+recall: 0.394
+roc: 0.500
+
+Stacking (51.152) -X 10 -M weka.classifiers.trees.J48 -C 0.25 -M 2 -S 1 -num-slots 1 -B weka.classifiers.bayes.NaiveBayes  -B weka.classifiers.trees.J48 -C 0.25 -M 2 -B weka.classifiers.lazy.IBk -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -B weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2 -B weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+80.0 38.0 
+68.0 31.0 
+
+Correctas 51.152
+Incorrectas 48.848
+Error Abs Medio 0.496
+Error Cuadratico Medio 0.513
+Error Abs Relativo 99.920
+Error Cuadratico relativo 102.957
+Kappa -0.009
+Clase S
+precision: 0.541
+recall: 0.678
+roc: 0.489
+Clase F
+precision: 0.449
+recall: 0.313
+roc: 0.489
+
+MultilayerPerceptron (50.691) -L 0.2 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 1
+68.0 50.0 
+57.0 42.0 
+
+Correctas 50.691
+Incorrectas 49.309
+Error Abs Medio 0.491
+Error Cuadratico Medio 0.570
+Error Abs Relativo 98.882
+Error Cuadratico relativo 114.434
+Kappa 0.001
+Clase S
+precision: 0.544
+recall: 0.576
+roc: 0.528
+Clase F
+precision: 0.457
+recall: 0.424
+roc: 0.528
+
+MultilayerPerceptron (50.691) -L 0.30000000000000004 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 2
+60.0 58.0 
+49.0 50.0 
+
+Correctas 50.691
+Incorrectas 49.309
+Error Abs Medio 0.493
+Error Cuadratico Medio 0.611
+Error Abs Relativo 99.353
+Error Cuadratico relativo 122.580
+Kappa 0.013
+Clase S
+precision: 0.550
+recall: 0.508
+roc: 0.515
+Clase F
+precision: 0.463
+recall: 0.505
+roc: 0.515
+
+Bagging (50.230) -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.J48 -- -C 0.25 -M 2
+64.0 54.0 
+54.0 45.0 
+
+Correctas 50.230
+Incorrectas 49.770
+Error Abs Medio 0.502
+Error Cuadratico Medio 0.560
+Error Abs Relativo 101.067
+Error Cuadratico relativo 112.448
+Kappa -0.003
+Clase S
+precision: 0.542
+recall: 0.542
+roc: 0.486
+Clase F
+precision: 0.455
+recall: 0.455
+roc: 0.486
+
+Stacking (49.770) -X 10 -M weka.classifiers.lazy.IBk -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -S 1 -num-slots 1 -B weka.classifiers.bayes.NaiveBayes  -B weka.classifiers.trees.J48 -C 0.25 -M 2 -B weka.classifiers.lazy.IBk -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -B weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2 -B weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+59.0 59.0 
+50.0 49.0 
+
+Correctas 49.770
+Incorrectas 50.230
+Error Abs Medio 0.505
+Error Cuadratico Medio 0.589
+Error Abs Relativo 101.838
+Error Cuadratico relativo 118.264
+Kappa -0.005
+Clase S
+precision: 0.541
+recall: 0.500
+roc: 0.482
+Clase F
+precision: 0.454
+recall: 0.495
+roc: 0.482
+
+MultilayerPerceptron (49.309) -L 0.4 -M 0.1 -N 500 -V 0 -S 0 -E 20 -H 2
+52.0 66.0 
+44.0 55.0 
+
+Correctas 49.309
+Incorrectas 50.691
+Error Abs Medio 0.510
+Error Cuadratico Medio 0.623
+Error Abs Relativo 102.692
+Error Cuadratico relativo 125.021
+Kappa -0.004
+Clase S
+precision: 0.542
+recall: 0.441
+roc: 0.479
+Clase F
+precision: 0.455
+recall: 0.556
+roc: 0.479
+
+MultilayerPerceptron (48.848) -L 0.4 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2
+52.0 66.0 
+45.0 54.0 
+
+Correctas 48.848
+Incorrectas 51.152
+Error Abs Medio 0.498
+Error Cuadratico Medio 0.606
+Error Abs Relativo 100.365
+Error Cuadratico relativo 121.657
+Kappa -0.014
+Clase S
+precision: 0.536
+recall: 0.441
+roc: 0.506
+Clase F
+precision: 0.450
+recall: 0.545
+roc: 0.506
+
+IBk (48.848) -K 1 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last"
+64.0 54.0 
+57.0 42.0 
+
+Correctas 48.848
+Incorrectas 51.152
+Error Abs Medio 0.511
+Error Cuadratico Medio 0.712
+Error Abs Relativo 103.056
+Error Cuadratico relativo 142.857
+Kappa -0.033
+Clase S
+precision: 0.529
+recall: 0.542
+roc: 0.465
+Clase F
+precision: 0.438
+recall: 0.424
+roc: 0.465
+
+IBk (48.848) -K 1 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.MinkowskiDistance -P 2.0 -R first-last"
+64.0 54.0 
+57.0 42.0 
+
+Correctas 48.848
+Incorrectas 51.152
+Error Abs Medio 0.511
+Error Cuadratico Medio 0.712
+Error Abs Relativo 103.056
+Error Cuadratico relativo 142.857
+Kappa -0.033
+Clase S
+precision: 0.529
+recall: 0.542
+roc: 0.465
+Clase F
+precision: 0.438
+recall: 0.424
+roc: 0.465
+
+IBk (48.387) -K 1 -W 0 -A weka.core.neighboursearch.LinearNNSearch -A "weka.core.ChebyshevDistance -R first-last"
+67.0 51.0 
+61.0 38.0 
+
+Correctas 48.387
+Incorrectas 51.613
+Error Abs Medio 0.528
+Error Cuadratico Medio 0.700
+Error Abs Relativo 106.451
+Error Cuadratico relativo 140.485
+Kappa -0.049
+Clase S
+precision: 0.523
+recall: 0.568
+roc: 0.456
+Clase F
+precision: 0.427
+recall: 0.384
+roc: 0.456
+
+Stacking (47.926) -X 10 -M weka.classifiers.bayes.NaiveBayes  -S 1 -num-slots 1 -B weka.classifiers.bayes.NaiveBayes  -B weka.classifiers.trees.J48 -C 0.25 -M 2 -B weka.classifiers.lazy.IBk -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -B weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2 -B weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+70.0 48.0 
+65.0 34.0 
+
+Correctas 47.926
+Incorrectas 52.074
+Error Abs Medio 0.512
+Error Cuadratico Medio 0.586
+Error Abs Relativo 103.154
+Error Cuadratico relativo 117.621
+Kappa -0.064
+Clase S
+precision: 0.519
+recall: 0.593
+roc: 0.464
+Clase F
+precision: 0.415
+recall: 0.343
+roc: 0.464
+
+Stacking (47.926) -X 10 -M weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2 -S 1 -num-slots 1 -B weka.classifiers.bayes.NaiveBayes  -B weka.classifiers.trees.J48 -C 0.25 -M 2 -B weka.classifiers.lazy.IBk -K 3 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -B weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H 2 -B weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+61.0 57.0 
+56.0 43.0 
+
+Correctas 47.926
+Incorrectas 52.074
+Error Abs Medio 0.509
+Error Cuadratico Medio 0.554
+Error Abs Relativo 102.615
+Error Cuadratico relativo 111.231
+Kappa -0.049
+Clase S
+precision: 0.521
+recall: 0.517
+roc: 0.462
+Clase F
+precision: 0.430
+recall: 0.434
+roc: 0.462
+

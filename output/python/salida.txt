@@ -1,0 +1,1696 @@
+DNN[10, 10, 20]: {'average_loss': 1.0437669, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 45.925743}
+DNN[1]: {'average_loss': 0.8397274, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.948006}
+DNN[5]: {'average_loss': 0.7276175, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.01517}
+DNN[5]: {'average_loss': 0.9045939, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 39.80213}
+DNN[5]: {'average_loss': 0.84062576, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.987534}
+DNN[5]: {'average_loss': 1.1848261, 'accuracy': 0.5, 'global_step': 1000, 'loss': 52.13235}
+DNN[5]: {'average_loss': 0.83925176, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92708}
+DNN[5]: {'average_loss': 0.83661896, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.811234}
+DNN[2, 2]: {'average_loss': 0.8808727, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.7584}
+DNN[]: {'average_loss': 0.7899612, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.758293}
+DNN[2, 2]: {'average_loss': 0.8272679, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.399788}
+DNN[2, 3]: {'average_loss': 0.8149062, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.855873}
+DNN[2, 4]: {'average_loss': 0.82616544, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.35128}
+DNN[2, 5]: {'average_loss': 0.8389956, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915806}
+DNN[3, 2]: {'average_loss': 0.8555898, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.64595}
+DNN[3, 3]: {'average_loss': 0.8405182, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9828}
+DNN[3, 4]: {'average_loss': 0.84530294, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.19333}
+DNN[3, 5]: {'average_loss': 0.8620088, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.928387}
+DNN[4, 2]: {'average_loss': 0.8353388, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.754906}
+DNN[4, 3]: {'average_loss': 0.9764353, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.963154}
+DNN[4, 4]: {'average_loss': 0.8500702, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.403088}
+DNN[4, 5]: {'average_loss': 0.82433265, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.270638}
+DNN[5, 2]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 3]: {'average_loss': 0.8523598, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.50383}
+DNN[5, 4]: {'average_loss': 0.8004967, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.221855}
+DNN[5, 5]: {'average_loss': 0.83924276, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92668}
+DNN[2, 2, 2]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[2, 2, 3]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[2, 2, 4]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[2, 2, 5]: {'average_loss': 0.828817, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.46795}
+DNN[2, 3, 2]: {'average_loss': 0.9451861, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 41.58819}
+DNN[2, 3, 3]: {'average_loss': 0.8425551, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.072426}
+DNN[2, 3, 4]: {'average_loss': 0.90033716, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 39.614834}
+DNN[2, 3, 5]: {'average_loss': 0.8551743, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.62767}
+DNN[2, 4, 2]: {'average_loss': 0.8380573, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.87452}
+DNN[2, 4, 3]: {'average_loss': 0.85421795, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.58559}
+DNN[2, 4, 4]: {'average_loss': 0.8256834, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.33007}
+DNN[2, 4, 5]: {'average_loss': 0.838999, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915955}
+DNN[2, 5, 2]: {'average_loss': 0.8391705, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.923504}
+DNN[2, 5, 3]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[2, 5, 4]: {'average_loss': 0.8377283, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.860046}
+DNN[2, 5, 5]: {'average_loss': 0.9003391, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.61492}
+DNN[3, 2, 2]: {'average_loss': 0.8390383, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917686}
+DNN[3, 2, 3]: {'average_loss': 0.81362015, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.799286}
+DNN[3, 2, 4]: {'average_loss': 0.8840055, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.89624}
+DNN[3, 2, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[3, 3, 2]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[3, 3, 3]: {'average_loss': 0.8374931, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.849697}
+DNN[3, 3, 4]: {'average_loss': 0.9782999, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 43.045197}
+DNN[3, 3, 5]: {'average_loss': 0.83868194, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.902004}
+DNN[3, 4, 2]: {'average_loss': 0.8389956, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915806}
+DNN[3, 4, 3]: {'average_loss': 0.755603, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.246532}
+DNN[3, 4, 4]: {'average_loss': 0.8523344, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.502712}
+DNN[3, 4, 5]: {'average_loss': 0.8389946, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915764}
+DNN[3, 5, 2]: {'average_loss': 0.83901113, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91649}
+DNN[3, 5, 3]: {'average_loss': 0.8390034, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91615}
+DNN[3, 5, 4]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[3, 5, 5]: {'average_loss': 0.9333718, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.06836}
+DNN[4, 2, 2]: {'average_loss': 0.84351355, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.114597}
+DNN[4, 2, 3]: {'average_loss': 0.8960922, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.428055}
+DNN[4, 2, 4]: {'average_loss': 0.90743166, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.926994}
+DNN[4, 2, 5]: {'average_loss': 0.8390293, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91729}
+DNN[4, 3, 2]: {'average_loss': 0.8390073, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91632}
+DNN[4, 3, 3]: {'average_loss': 0.8200311, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.081367}
+DNN[4, 3, 4]: {'average_loss': 0.839014, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916615}
+DNN[4, 3, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[4, 4, 2]: {'average_loss': 0.8390352, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91755}
+DNN[4, 4, 3]: {'average_loss': 0.91466576, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.245293}
+DNN[4, 4, 4]: {'average_loss': 0.83900934, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916412}
+DNN[4, 4, 5]: {'average_loss': 0.8327491, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.64096}
+DNN[4, 5, 2]: {'average_loss': 0.8390068, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916298}
+DNN[4, 5, 3]: {'average_loss': 0.8350607, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.742672}
+DNN[4, 5, 4]: {'average_loss': 0.82215273, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.17472}
+DNN[4, 5, 5]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 2, 2]: {'average_loss': 0.84037554, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.976524}
+DNN[5, 2, 3]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 2, 4]: {'average_loss': 0.8370645, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.830837}
+DNN[5, 2, 5]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[5, 3, 2]: {'average_loss': 0.8819012, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.803654}
+DNN[5, 3, 3]: {'average_loss': 0.8384245, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.89068}
+DNN[5, 3, 4]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 3, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 4, 2]: {'average_loss': 0.8390373, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91764}
+DNN[5, 4, 3]: {'average_loss': 0.69435716, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 30.551714}
+DNN[5, 4, 4]: {'average_loss': 0.8389396, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91334}
+DNN[5, 4, 5]: {'average_loss': 0.82401747, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.256767}
+DNN[5, 5, 2]: {'average_loss': 0.82167155, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.15355}
+DNN[5, 5, 3]: {'average_loss': 0.8261019, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.348484}
+DNN[5, 5, 4]: {'average_loss': 0.90090215, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.639694}
+DNN[5, 5, 5]: {'average_loss': 0.8553299, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.634514}
+DNN[5, 5]: {'average_loss': 0.75701654, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.308727}
+DNN[5, 6]: {'average_loss': 1.0973127, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 48.281757}
+DNN[5, 7]: {'average_loss': 0.97207296, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.77121}
+DNN[5, 8]: {'average_loss': 0.83641523, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.80227}
+DNN[5, 9]: {'average_loss': 0.83673835, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.816486}
+DNN[5, 10]: {'average_loss': 0.79832864, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.12646}
+DNN[6, 5]: {'average_loss': 0.8279106, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.428066}
+DNN[6, 6]: {'average_loss': 0.83900523, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91623}
+DNN[6, 7]: {'average_loss': 0.8925167, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.270733}
+DNN[6, 8]: {'average_loss': 0.83999324, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.9597}
+DNN[6, 9]: {'average_loss': 0.8432228, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.101803}
+DNN[6, 10]: {'average_loss': 0.9691006, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.640427}
+DNN[7, 5]: {'average_loss': 0.8390234, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91703}
+DNN[7, 6]: {'average_loss': 0.832007, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.608307}
+DNN[7, 7]: {'average_loss': 0.8428314, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 37.08458}
+DNN[7, 8]: {'average_loss': 0.9206944, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 40.510555}
+DNN[7, 9]: {'average_loss': 0.78835773, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.68774}
+DNN[7, 10]: {'average_loss': 0.87539506, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.517384}
+DNN[8, 5]: {'average_loss': 0.8501924, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.408466}
+DNN[8, 6]: {'average_loss': 0.7384588, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 32.492188}
+DNN[8, 7]: {'average_loss': 0.82419777, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.2647}
+DNN[8, 8]: {'average_loss': 0.7717564, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.957283}
+DNN[8, 9]: {'average_loss': 0.7457348, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 32.812332}
+DNN[8, 10]: {'average_loss': 0.804923, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.41661}
+DNN[9, 5]: {'average_loss': 0.85496235, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.618343}
+DNN[9, 6]: {'average_loss': 0.7080082, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 31.15236}
+DNN[9, 7]: {'average_loss': 0.8788891, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.67112}
+DNN[9, 8]: {'average_loss': 0.7807841, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 34.3545}
+DNN[9, 9]: {'average_loss': 0.77681917, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.180042}
+DNN[9, 10]: {'average_loss': 0.81466734, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.845364}
+DNN[10, 5]: {'average_loss': 0.8727175, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.39957}
+DNN[10, 6]: {'average_loss': 0.8052164, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 35.42952}
+DNN[10, 7]: {'average_loss': 0.8392405, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.926582}
+DNN[10, 8]: {'average_loss': 0.7451023, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 32.7845}
+DNN[10, 9]: {'average_loss': 0.8465544, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.248394}
+DNN[10, 10]: {'average_loss': 0.77060354, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.906555}
+DNN[5, 5, 5]: {'average_loss': 0.8110109, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.68448}
+DNN[5, 5, 6]: {'average_loss': 1.0326847, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 45.438126}
+DNN[5, 5, 7]: {'average_loss': 0.84010434, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.964592}
+DNN[5, 5, 8]: {'average_loss': 0.8350996, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.74438}
+DNN[5, 5, 9]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 5, 10]: {'average_loss': 0.7514742, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.064865}
+DNN[5, 6, 5]: {'average_loss': 0.821628, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.15163}
+DNN[5, 6, 6]: {'average_loss': 0.83055824, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.544563}
+DNN[5, 6, 7]: {'average_loss': 0.87738174, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 38.604797}
+DNN[5, 6, 8]: {'average_loss': 0.7546683, 'accuracy': 0.77272725, 'global_step': 1000, 'loss': 33.205406}
+DNN[5, 6, 9]: {'average_loss': 0.8650244, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.061073}
+DNN[5, 6, 10]: {'average_loss': 0.8138428, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.809082}
+DNN[5, 7, 5]: {'average_loss': 0.83869725, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.90268}
+DNN[5, 7, 6]: {'average_loss': 0.8711515, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.330666}
+DNN[5, 7, 7]: {'average_loss': 0.9725319, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.791405}
+DNN[5, 7, 8]: {'average_loss': 0.7399427, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 32.55748}
+DNN[5, 7, 9]: {'average_loss': 1.0538481, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 46.369316}
+DNN[5, 7, 10]: {'average_loss': 0.7657728, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.694004}
+DNN[5, 8, 5]: {'average_loss': 0.906396, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.881424}
+DNN[5, 8, 6]: {'average_loss': 0.80827904, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.564278}
+DNN[5, 8, 7]: {'average_loss': 1.2260194, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 53.94485}
+DNN[5, 8, 8]: {'average_loss': 0.7949217, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.976555}
+DNN[5, 8, 9]: {'average_loss': 0.77251226, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.99054}
+DNN[5, 8, 10]: {'average_loss': 0.7572826, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.320435}
+DNN[5, 9, 5]: {'average_loss': 0.8186916, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.02243}
+DNN[5, 9, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 9, 7]: {'average_loss': 0.7740328, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.05744}
+DNN[5, 9, 8]: {'average_loss': 0.91910607, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.440666}
+DNN[5, 9, 9]: {'average_loss': 0.80654144, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.487823}
+DNN[5, 9, 10]: {'average_loss': 0.8119928, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.727684}
+DNN[5, 10, 5]: {'average_loss': 0.8389957, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91581}
+DNN[5, 10, 6]: {'average_loss': 0.83899367, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91572}
+DNN[5, 10, 7]: {'average_loss': 0.7719088, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.96399}
+DNN[5, 10, 8]: {'average_loss': 0.9025267, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 39.711174}
+DNN[5, 10, 9]: {'average_loss': 0.8565908, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.689995}
+DNN[5, 10, 10]: {'average_loss': 0.84069884, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.99075}
+DNN[6, 5, 5]: {'average_loss': 0.9622141, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 42.33742}
+DNN[6, 5, 6]: {'average_loss': 0.7787136, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.263397}
+DNN[6, 5, 7]: {'average_loss': 1.082362, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 47.62393}
+DNN[6, 5, 8]: {'average_loss': 0.83210874, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.612785}
+DNN[6, 5, 9]: {'average_loss': 0.8122927, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.74088}
+DNN[6, 5, 10]: {'average_loss': 0.844869, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 37.174236}
+DNN[6, 6, 5]: {'average_loss': 0.79268, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.877922}
+DNN[6, 6, 6]: {'average_loss': 0.8391392, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.922127}
+DNN[6, 6, 7]: {'average_loss': 0.83675694, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.817307}
+DNN[6, 6, 8]: {'average_loss': 0.8123259, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.74234}
+DNN[6, 6, 9]: {'average_loss': 0.80413747, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.38205}
+DNN[6, 6, 10]: {'average_loss': 0.8738439, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.44913}
+DNN[6, 7, 5]: {'average_loss': 0.8545969, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.602264}
+DNN[6, 7, 6]: {'average_loss': 0.7551624, 'accuracy': 0.75, 'global_step': 1000, 'loss': 33.227146}
+DNN[6, 7, 7]: {'average_loss': 0.9906437, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 43.58832}
+DNN[6, 7, 8]: {'average_loss': 0.86307013, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.975086}
+DNN[6, 7, 9]: {'average_loss': 0.77371526, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.043472}
+DNN[6, 7, 10]: {'average_loss': 1.0622177, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 46.73758}
+DNN[6, 8, 5]: {'average_loss': 1.0673807, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 46.96475}
+DNN[6, 8, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 8, 7]: {'average_loss': 0.7684286, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.81086}
+DNN[6, 8, 8]: {'average_loss': 0.8249155, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.296284}
+DNN[6, 8, 9]: {'average_loss': 0.7634489, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.59175}
+DNN[6, 8, 10]: {'average_loss': 0.8955212, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.402935}
+DNN[6, 9, 5]: {'average_loss': 1.1177319, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 49.180206}
+DNN[6, 9, 6]: {'average_loss': 0.8389998, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915993}
+DNN[6, 9, 7]: {'average_loss': 0.8517527, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 37.47712}
+DNN[6, 9, 8]: {'average_loss': 0.8164228, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.922604}
+DNN[6, 9, 9]: {'average_loss': 0.86748433, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.16931}
+DNN[6, 9, 10]: {'average_loss': 1.0407194, 'accuracy': 0.75, 'global_step': 1000, 'loss': 45.791653}
+DNN[6, 10, 5]: {'average_loss': 0.8127951, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.762985}
+DNN[6, 10, 6]: {'average_loss': 0.810989, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.683517}
+DNN[6, 10, 7]: {'average_loss': 0.91400915, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.216404}
+DNN[6, 10, 8]: {'average_loss': 0.9236853, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 40.642155}
+DNN[6, 10, 9]: {'average_loss': 0.8154562, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.880074}
+DNN[6, 10, 10]: {'average_loss': 1.2409911, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 54.603607}
+DNN[7, 5, 5]: {'average_loss': 0.82341516, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.230267}
+DNN[7, 5, 6]: {'average_loss': 0.850974, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.442856}
+DNN[7, 5, 7]: {'average_loss': 0.85439336, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.593307}
+DNN[7, 5, 8]: {'average_loss': 0.8566754, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.693718}
+DNN[7, 5, 9]: {'average_loss': 0.8613016, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.89727}
+DNN[7, 5, 10]: {'average_loss': 1.0502673, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 46.21176}
+DNN[7, 6, 5]: {'average_loss': 0.79811496, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.117058}
+DNN[7, 6, 6]: {'average_loss': 0.922164, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.57522}
+DNN[7, 6, 7]: {'average_loss': 0.82042193, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.098564}
+DNN[7, 6, 8]: {'average_loss': 0.8070937, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.512123}
+DNN[7, 6, 9]: {'average_loss': 0.8371015, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.832466}
+DNN[7, 6, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[7, 7, 5]: {'average_loss': 0.7565624, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.288746}
+DNN[7, 7, 6]: {'average_loss': 0.7620339, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.52949}
+DNN[7, 7, 7]: {'average_loss': 1.2330264, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 54.25316}
+DNN[7, 7, 8]: {'average_loss': 0.8446817, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.165993}
+DNN[7, 7, 9]: {'average_loss': 0.75164205, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.07225}
+DNN[7, 7, 10]: {'average_loss': 0.7915445, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 34.827957}
+DNN[7, 8, 5]: {'average_loss': 0.8553841, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.6369}
+DNN[7, 8, 6]: {'average_loss': 0.8580765, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.755367}
+DNN[7, 8, 7]: {'average_loss': 0.82620275, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.35292}
+DNN[7, 8, 8]: {'average_loss': 0.7730186, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.012817}
+DNN[7, 8, 9]: {'average_loss': 0.7428982, 'accuracy': 0.75, 'global_step': 1000, 'loss': 32.687523}
+DNN[7, 8, 10]: {'average_loss': 0.8952766, 'accuracy': 0.38636363, 'global_step': 1000, 'loss': 39.39217}
+DNN[7, 9, 5]: {'average_loss': 0.97188395, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 42.762894}
+DNN[7, 9, 6]: {'average_loss': 0.77435434, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.07159}
+DNN[7, 9, 7]: {'average_loss': 0.852894, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.527336}
+DNN[7, 9, 8]: {'average_loss': 0.91994214, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.477455}
+DNN[7, 9, 9]: {'average_loss': 0.84002376, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.961044}
+DNN[7, 9, 10]: {'average_loss': 0.87005615, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 38.28247}
+DNN[7, 10, 5]: {'average_loss': 0.81341326, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.790184}
+DNN[7, 10, 6]: {'average_loss': 0.83821607, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.881508}
+DNN[7, 10, 7]: {'average_loss': 0.8282373, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.44244}
+DNN[7, 10, 8]: {'average_loss': 0.822064, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.170815}
+DNN[7, 10, 9]: {'average_loss': 0.92101324, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.524582}
+DNN[7, 10, 10]: {'average_loss': 0.8299089, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.51599}
+DNN[8, 5, 5]: {'average_loss': 0.8537863, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.566597}
+DNN[8, 5, 6]: {'average_loss': 0.83805525, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.87443}
+DNN[8, 5, 7]: {'average_loss': 0.8771334, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.593872}
+DNN[8, 5, 8]: {'average_loss': 1.0830704, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 47.655098}
+DNN[8, 5, 9]: {'average_loss': 0.75735563, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.323647}
+DNN[8, 5, 10]: {'average_loss': 0.8342274, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.706005}
+DNN[8, 6, 5]: {'average_loss': 0.83910006, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920403}
+DNN[8, 6, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 6, 7]: {'average_loss': 0.8143354, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.830757}
+DNN[8, 6, 8]: {'average_loss': 0.82837576, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.448532}
+DNN[8, 6, 9]: {'average_loss': 0.76706654, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.750927}
+DNN[8, 6, 10]: {'average_loss': 0.82667005, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.37348}
+DNN[8, 7, 5]: {'average_loss': 0.9039581, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.774155}
+DNN[8, 7, 6]: {'average_loss': 0.9796245, 'accuracy': 0.5, 'global_step': 1000, 'loss': 43.103477}
+DNN[8, 7, 7]: {'average_loss': 0.74130636, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.61748}
+DNN[8, 7, 8]: {'average_loss': 0.8839439, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.89353}
+DNN[8, 7, 9]: {'average_loss': 0.89792156, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 39.50855}
+DNN[8, 7, 10]: {'average_loss': 0.8466024, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.250504}
+DNN[8, 8, 5]: {'average_loss': 0.835778, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.77423}
+DNN[8, 8, 6]: {'average_loss': 0.78090113, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.35965}
+DNN[8, 8, 7]: {'average_loss': 0.716123, 'accuracy': 0.75, 'global_step': 1000, 'loss': 31.50941}
+DNN[8, 8, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 8, 9]: {'average_loss': 0.94213504, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 41.45394}
+DNN[8, 8, 10]: {'average_loss': 0.87391436, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.452232}
+DNN[8, 9, 5]: {'average_loss': 0.8384811, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.89317}
+DNN[8, 9, 6]: {'average_loss': 0.8587223, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.783783}
+DNN[8, 9, 7]: {'average_loss': 0.7661966, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.71265}
+DNN[8, 9, 8]: {'average_loss': 0.82609445, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.348156}
+DNN[8, 9, 9]: {'average_loss': 0.8220759, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.17134}
+DNN[8, 9, 10]: {'average_loss': 0.83184236, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.601063}
+DNN[8, 10, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[8, 10, 6]: {'average_loss': 0.7752357, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.11037}
+DNN[8, 10, 7]: {'average_loss': 0.79034305, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.775093}
+DNN[8, 10, 8]: {'average_loss': 0.7453358, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 32.794777}
+DNN[8, 10, 9]: {'average_loss': 0.77962875, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.303665}
+DNN[8, 10, 10]: {'average_loss': 0.89435995, 'accuracy': 0.5, 'global_step': 1000, 'loss': 39.351837}
+DNN[9, 5, 5]: {'average_loss': 0.8390106, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916466}
+DNN[9, 5, 6]: {'average_loss': 0.79271066, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.87927}
+DNN[9, 5, 7]: {'average_loss': 0.7795034, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.29815}
+DNN[9, 5, 8]: {'average_loss': 0.8575191, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 37.73084}
+DNN[9, 5, 9]: {'average_loss': 0.8390389, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917713}
+DNN[9, 5, 10]: {'average_loss': 0.96257263, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 42.353195}
+DNN[9, 6, 5]: {'average_loss': 1.0493146, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 46.16984}
+DNN[9, 6, 6]: {'average_loss': 0.8339393, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.69333}
+DNN[9, 6, 7]: {'average_loss': 0.80381256, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.367752}
+DNN[9, 6, 8]: {'average_loss': 0.8580272, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.753197}
+DNN[9, 6, 9]: {'average_loss': 0.96743524, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.56715}
+DNN[9, 6, 10]: {'average_loss': 0.9761951, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 42.952583}
+DNN[9, 7, 5]: {'average_loss': 0.8078098, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.543633}
+DNN[9, 7, 6]: {'average_loss': 0.83899724, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91588}
+DNN[9, 7, 7]: {'average_loss': 0.7760088, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.144386}
+DNN[9, 7, 8]: {'average_loss': 0.72450745, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 31.878328}
+DNN[9, 7, 9]: {'average_loss': 0.7982346, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.122322}
+DNN[9, 7, 10]: {'average_loss': 0.8166328, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.931843}
+DNN[9, 8, 5]: {'average_loss': 1.0096403, 'accuracy': 0.5, 'global_step': 1000, 'loss': 44.424175}
+DNN[9, 8, 6]: {'average_loss': 0.83922106, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.925728}
+DNN[9, 8, 7]: {'average_loss': 0.8452789, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.192272}
+DNN[9, 8, 8]: {'average_loss': 0.8165939, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 35.93013}
+DNN[9, 8, 9]: {'average_loss': 0.83955824, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.940563}
+DNN[9, 8, 10]: {'average_loss': 0.8390451, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917984}
+DNN[9, 9, 5]: {'average_loss': 0.9372249, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 41.237896}
+DNN[9, 9, 6]: {'average_loss': 0.8542206, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.58571}
+DNN[9, 9, 7]: {'average_loss': 0.89069045, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 39.19038}
+DNN[9, 9, 8]: {'average_loss': 0.7625887, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.5539}
+DNN[9, 9, 9]: {'average_loss': 0.8390154, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91668}
+DNN[9, 9, 10]: {'average_loss': 0.8748642, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 38.494026}
+DNN[9, 10, 5]: {'average_loss': 0.6944241, 'accuracy': 0.77272725, 'global_step': 1000, 'loss': 30.554659}
+DNN[9, 10, 6]: {'average_loss': 0.76471925, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.647648}
+DNN[9, 10, 7]: {'average_loss': 0.8841638, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.903206}
+DNN[9, 10, 8]: {'average_loss': 0.83904874, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.918144}
+DNN[9, 10, 9]: {'average_loss': 0.7854803, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.561134}
+DNN[9, 10, 10]: {'average_loss': 0.99921566, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 43.96549}
+DNN[10, 5, 5]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 5, 6]: {'average_loss': 0.8390036, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91616}
+DNN[10, 5, 7]: {'average_loss': 0.8508847, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.438927}
+DNN[10, 5, 8]: {'average_loss': 0.84365255, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.120712}
+DNN[10, 5, 9]: {'average_loss': 0.8783155, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.64588}
+DNN[10, 5, 10]: {'average_loss': 0.89167595, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.23374}
+DNN[10, 6, 5]: {'average_loss': 0.9199641, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 40.47842}
+DNN[10, 6, 6]: {'average_loss': 0.9748204, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.892097}
+DNN[10, 6, 7]: {'average_loss': 0.8376725, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.85759}
+DNN[10, 6, 8]: {'average_loss': 0.82645744, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.36413}
+DNN[10, 6, 9]: {'average_loss': 0.78448373, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.517284}
+DNN[10, 6, 10]: {'average_loss': 0.75669485, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.294575}
+DNN[10, 7, 5]: {'average_loss': 0.7459719, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.822765}
+DNN[10, 7, 6]: {'average_loss': 0.83759874, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.854343}
+DNN[10, 7, 7]: {'average_loss': 0.8114683, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.704605}
+DNN[10, 7, 8]: {'average_loss': 0.75575006, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.253002}
+DNN[10, 7, 9]: {'average_loss': 0.9145426, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.239876}
+DNN[10, 7, 10]: {'average_loss': 0.8790441, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.67794}
+DNN[10, 8, 5]: {'average_loss': 0.8358339, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.77669}
+DNN[10, 8, 6]: {'average_loss': 0.6965961, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 30.650229}
+DNN[10, 8, 7]: {'average_loss': 1.0639665, 'accuracy': 0.5, 'global_step': 1000, 'loss': 46.814526}
+DNN[10, 8, 8]: {'average_loss': 0.8206865, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.110207}
+DNN[10, 8, 9]: {'average_loss': 0.81205994, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.730637}
+DNN[10, 8, 10]: {'average_loss': 0.8310505, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.566223}
+DNN[10, 9, 5]: {'average_loss': 0.83921295, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92537}
+DNN[10, 9, 6]: {'average_loss': 0.8172589, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.959393}
+DNN[10, 9, 7]: {'average_loss': 1.111721, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 48.915726}
+DNN[10, 9, 8]: {'average_loss': 0.7241953, 'accuracy': 0.75, 'global_step': 1000, 'loss': 31.864594}
+DNN[10, 9, 9]: {'average_loss': 0.90422815, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.786037}
+DNN[10, 9, 10]: {'average_loss': 1.1537914, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 50.766823}
+DNN[10, 10, 5]: {'average_loss': 0.83126104, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.575485}
+DNN[10, 10, 6]: {'average_loss': 0.83771604, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.859505}
+DNN[10, 10, 7]: {'average_loss': 0.8578141, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.74382}
+DNN[10, 10, 8]: {'average_loss': 0.9068699, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.902275}
+DNN[10, 10, 9]: {'average_loss': 0.9299583, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.918163}
+DNN[10, 10, 10]: {'average_loss': 0.9870382, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 43.42968}
+DNN[5, 5, 5, 5]: {'average_loss': 0.8197859, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 36.07058}
+DNN[5, 5, 5, 6]: {'average_loss': 0.8612896, 'accuracy': 0.4318182, 'global_step': 1000, 'loss': 37.896744}
+DNN[5, 5, 5, 7]: {'average_loss': 0.7915398, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.82775}
+DNN[5, 5, 5, 8]: {'average_loss': 0.7973116, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.08171}
+DNN[5, 5, 5, 9]: {'average_loss': 0.9882688, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.483826}
+DNN[5, 5, 5, 10]: {'average_loss': 0.80323863, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.3425}
+DNN[5, 5, 6, 5]: {'average_loss': 0.8323101, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.621643}
+DNN[5, 5, 6, 6]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[5, 5, 6, 7]: {'average_loss': 0.8185295, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.015297}
+DNN[5, 5, 6, 8]: {'average_loss': 0.9630401, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 42.373764}
+DNN[5, 5, 6, 9]: {'average_loss': 0.91957057, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 40.461105}
+DNN[5, 5, 6, 10]: {'average_loss': 0.9798305, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.11254}
+DNN[5, 5, 7, 5]: {'average_loss': 0.7287962, 'accuracy': 0.79545456, 'global_step': 1000, 'loss': 32.06703}
+DNN[5, 5, 7, 6]: {'average_loss': 0.84288347, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.086872}
+DNN[5, 5, 7, 7]: {'average_loss': 0.8686153, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.219074}
+DNN[5, 5, 7, 8]: {'average_loss': 0.85458064, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.601547}
+DNN[5, 5, 7, 9]: {'average_loss': 0.812416, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.746304}
+DNN[5, 5, 7, 10]: {'average_loss': 0.745916, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.820305}
+DNN[5, 5, 8, 5]: {'average_loss': 0.9297716, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 40.90995}
+DNN[5, 5, 8, 6]: {'average_loss': 1.0112463, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 44.49484}
+DNN[5, 5, 8, 7]: {'average_loss': 0.8062134, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.47339}
+DNN[5, 5, 8, 8]: {'average_loss': 0.84394, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.13336}
+DNN[5, 5, 8, 9]: {'average_loss': 0.81760556, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.974644}
+DNN[5, 5, 8, 10]: {'average_loss': 0.837768, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.861794}
+DNN[5, 5, 9, 5]: {'average_loss': 0.87836033, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.647854}
+DNN[5, 5, 9, 6]: {'average_loss': 0.82897, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.47468}
+DNN[5, 5, 9, 7]: {'average_loss': 0.75680965, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.299625}
+DNN[5, 5, 9, 8]: {'average_loss': 0.80610883, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.46879}
+DNN[5, 5, 9, 9]: {'average_loss': 0.942642, 'accuracy': 0.5, 'global_step': 1000, 'loss': 41.476246}
+DNN[5, 5, 9, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 5, 10, 5]: {'average_loss': 0.8383387, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.8869}
+DNN[5, 5, 10, 6]: {'average_loss': 0.8359848, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 36.783333}
+DNN[5, 5, 10, 7]: {'average_loss': 0.9662562, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 42.515274}
+DNN[5, 5, 10, 8]: {'average_loss': 0.7533693, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.148247}
+DNN[5, 5, 10, 9]: {'average_loss': 0.8892116, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 39.12531}
+DNN[5, 5, 10, 10]: {'average_loss': 1.0266825, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 45.17403}
+DNN[5, 6, 5, 5]: {'average_loss': 0.7947733, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.970024}
+DNN[5, 6, 5, 6]: {'average_loss': 0.7560526, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.266315}
+DNN[5, 6, 5, 7]: {'average_loss': 0.9658728, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 42.498405}
+DNN[5, 6, 5, 8]: {'average_loss': 0.83899367, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91572}
+DNN[5, 6, 5, 9]: {'average_loss': 0.8390192, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916843}
+DNN[5, 6, 5, 10]: {'average_loss': 0.76038814, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.457077}
+DNN[5, 6, 6, 5]: {'average_loss': 0.8389936, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915718}
+DNN[5, 6, 6, 6]: {'average_loss': 0.9723341, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 42.7827}
+DNN[5, 6, 6, 7]: {'average_loss': 0.9918308, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 43.640556}
+DNN[5, 6, 6, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 6, 6, 9]: {'average_loss': 0.7628967, 'accuracy': 0.75, 'global_step': 1000, 'loss': 33.567455}
+DNN[5, 6, 6, 10]: {'average_loss': 0.82615733, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.35092}
+DNN[5, 6, 7, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 6, 7, 6]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 6, 7, 7]: {'average_loss': 1.4344289, 'accuracy': 0.5, 'global_step': 1000, 'loss': 63.114872}
+DNN[5, 6, 7, 8]: {'average_loss': 0.8655752, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.085308}
+DNN[5, 6, 7, 9]: {'average_loss': 0.8575235, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.731033}
+DNN[5, 6, 7, 10]: {'average_loss': 0.8459582, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.22216}
+DNN[5, 6, 8, 5]: {'average_loss': 0.8951729, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 39.387608}
+DNN[5, 6, 8, 6]: {'average_loss': 0.7995034, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.17815}
+DNN[5, 6, 8, 7]: {'average_loss': 0.9180499, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 40.394196}
+DNN[5, 6, 8, 8]: {'average_loss': 0.8247185, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.287613}
+DNN[5, 6, 8, 9]: {'average_loss': 0.7471152, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.87307}
+DNN[5, 6, 8, 10]: {'average_loss': 0.87308884, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.41591}
+DNN[5, 6, 9, 5]: {'average_loss': 0.81097674, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.682976}
+DNN[5, 6, 9, 6]: {'average_loss': 0.83903366, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91748}
+DNN[5, 6, 9, 7]: {'average_loss': 0.84119, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.01236}
+DNN[5, 6, 9, 8]: {'average_loss': 0.7854696, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.56066}
+DNN[5, 6, 9, 9]: {'average_loss': 0.84140855, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.021976}
+DNN[5, 6, 9, 10]: {'average_loss': 0.79264987, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.876595}
+DNN[5, 6, 10, 5]: {'average_loss': 0.79598004, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.02312}
+DNN[5, 6, 10, 6]: {'average_loss': 0.8381178, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.877182}
+DNN[5, 6, 10, 7]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 6, 10, 8]: {'average_loss': 0.8391812, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.923973}
+DNN[5, 6, 10, 9]: {'average_loss': 0.7236931, 'accuracy': 0.77272725, 'global_step': 1000, 'loss': 31.842495}
+DNN[5, 6, 10, 10]: {'average_loss': 0.84507316, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.18322}
+DNN[5, 7, 5, 5]: {'average_loss': 0.771306, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.93746}
+DNN[5, 7, 5, 6]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[5, 7, 5, 7]: {'average_loss': 0.85908777, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.799862}
+DNN[5, 7, 5, 8]: {'average_loss': 0.7973835, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.084873}
+DNN[5, 7, 5, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 7, 5, 10]: {'average_loss': 0.84061813, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.987198}
+DNN[5, 7, 6, 5]: {'average_loss': 1.3400649, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 58.962856}
+DNN[5, 7, 6, 6]: {'average_loss': 0.8638981, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.011517}
+DNN[5, 7, 6, 7]: {'average_loss': 0.9915239, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 43.627052}
+DNN[5, 7, 6, 8]: {'average_loss': 0.816215, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 35.91346}
+DNN[5, 7, 6, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 7, 6, 10]: {'average_loss': 0.77837145, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.248344}
+DNN[5, 7, 7, 5]: {'average_loss': 0.84610885, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 37.22879}
+DNN[5, 7, 7, 6]: {'average_loss': 0.8646561, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.04487}
+DNN[5, 7, 7, 7]: {'average_loss': 0.8390028, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916122}
+DNN[5, 7, 7, 8]: {'average_loss': 0.8350076, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.740334}
+DNN[5, 7, 7, 9]: {'average_loss': 0.8088884, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.591087}
+DNN[5, 7, 7, 10]: {'average_loss': 0.7012079, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 30.853148}
+DNN[5, 7, 8, 5]: {'average_loss': 0.83899367, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91572}
+DNN[5, 7, 8, 6]: {'average_loss': 0.8399717, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.958755}
+DNN[5, 7, 8, 7]: {'average_loss': 0.77894217, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.273457}
+DNN[5, 7, 8, 8]: {'average_loss': 0.7922735, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.860035}
+DNN[5, 7, 8, 9]: {'average_loss': 0.72276896, 'accuracy': 0.77272725, 'global_step': 1000, 'loss': 31.801834}
+DNN[5, 7, 8, 10]: {'average_loss': 0.8345737, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.72124}
+DNN[5, 7, 9, 5]: {'average_loss': 0.839028, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917233}
+DNN[5, 7, 9, 6]: {'average_loss': 0.9584264, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.17076}
+DNN[5, 7, 9, 7]: {'average_loss': 0.8429697, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.090668}
+DNN[5, 7, 9, 8]: {'average_loss': 0.807584, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.533695}
+DNN[5, 7, 9, 9]: {'average_loss': 0.8392769, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.928185}
+DNN[5, 7, 9, 10]: {'average_loss': 1.0427266, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 45.879974}
+DNN[5, 7, 10, 5]: {'average_loss': 1.1564883, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 50.885483}
+DNN[5, 7, 10, 6]: {'average_loss': 0.78328186, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.4644}
+DNN[5, 7, 10, 7]: {'average_loss': 0.96916366, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 42.6432}
+DNN[5, 7, 10, 8]: {'average_loss': 0.8288822, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.470818}
+DNN[5, 7, 10, 9]: {'average_loss': 0.8767243, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.57587}
+DNN[5, 7, 10, 10]: {'average_loss': 0.83898634, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915398}
+DNN[5, 8, 5, 5]: {'average_loss': 0.8392023, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9249}
+DNN[5, 8, 5, 6]: {'average_loss': 0.7994549, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.176018}
+DNN[5, 8, 5, 7]: {'average_loss': 0.84974515, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.388786}
+DNN[5, 8, 5, 8]: {'average_loss': 1.218843, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 53.62909}
+DNN[5, 8, 5, 9]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[5, 8, 5, 10]: {'average_loss': 0.8360829, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.787647}
+DNN[5, 8, 6, 5]: {'average_loss': 0.76035976, 'accuracy': 0.75, 'global_step': 1000, 'loss': 33.45583}
+DNN[5, 8, 6, 6]: {'average_loss': 0.82628244, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.356426}
+DNN[5, 8, 6, 7]: {'average_loss': 0.8865086, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.00638}
+DNN[5, 8, 6, 8]: {'average_loss': 1.0670683, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 46.951008}
+DNN[5, 8, 6, 9]: {'average_loss': 0.85760134, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.73446}
+DNN[5, 8, 6, 10]: {'average_loss': 1.0047024, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 44.20691}
+DNN[5, 8, 7, 5]: {'average_loss': 0.834638, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.72407}
+DNN[5, 8, 7, 6]: {'average_loss': 0.8072239, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.517853}
+DNN[5, 8, 7, 7]: {'average_loss': 0.81548387, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.88129}
+DNN[5, 8, 7, 8]: {'average_loss': 0.9999031, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 43.995735}
+DNN[5, 8, 7, 9]: {'average_loss': 0.83825624, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.883274}
+DNN[5, 8, 7, 10]: {'average_loss': 0.85129184, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.45684}
+DNN[5, 8, 8, 5]: {'average_loss': 0.75609225, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.26806}
+DNN[5, 8, 8, 6]: {'average_loss': 0.8292904, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 36.488777}
+DNN[5, 8, 8, 7]: {'average_loss': 0.8486316, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.33979}
+DNN[5, 8, 8, 8]: {'average_loss': 0.9316231, 'accuracy': 0.5, 'global_step': 1000, 'loss': 40.991417}
+DNN[5, 8, 8, 9]: {'average_loss': 0.9425796, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 41.473503}
+DNN[5, 8, 8, 10]: {'average_loss': 0.86435074, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.031433}
+DNN[5, 8, 9, 5]: {'average_loss': 0.80264777, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.3165}
+DNN[5, 8, 9, 6]: {'average_loss': 0.83865947, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.901016}
+DNN[5, 8, 9, 7]: {'average_loss': 0.8106667, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.669334}
+DNN[5, 8, 9, 8]: {'average_loss': 0.82476556, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.289684}
+DNN[5, 8, 9, 9]: {'average_loss': 0.81729925, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.961166}
+DNN[5, 8, 9, 10]: {'average_loss': 1.166888, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 51.34307}
+DNN[5, 8, 10, 5]: {'average_loss': 0.80317694, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.339787}
+DNN[5, 8, 10, 6]: {'average_loss': 0.8286093, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 36.45881}
+DNN[5, 8, 10, 7]: {'average_loss': 0.7670227, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.749}
+DNN[5, 8, 10, 8]: {'average_loss': 0.80839306, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.569294}
+DNN[5, 8, 10, 9]: {'average_loss': 0.9763754, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 42.960518}
+DNN[5, 8, 10, 10]: {'average_loss': 0.8605039, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.86217}
+DNN[5, 9, 5, 5]: {'average_loss': 0.8390343, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91751}
+DNN[5, 9, 5, 6]: {'average_loss': 0.8003761, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.21655}
+DNN[5, 9, 5, 7]: {'average_loss': 0.89082944, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 39.196495}
+DNN[5, 9, 5, 8]: {'average_loss': 0.9409899, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.403557}
+DNN[5, 9, 5, 9]: {'average_loss': 0.8383188, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.88603}
+DNN[5, 9, 5, 10]: {'average_loss': 0.9814501, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 43.183804}
+DNN[5, 9, 6, 5]: {'average_loss': 0.868854, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.229576}
+DNN[5, 9, 6, 6]: {'average_loss': 1.0441413, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 45.942215}
+DNN[5, 9, 6, 7]: {'average_loss': 0.82368964, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.242344}
+DNN[5, 9, 6, 8]: {'average_loss': 0.7662815, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.716385}
+DNN[5, 9, 6, 9]: {'average_loss': 0.7536576, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.160934}
+DNN[5, 9, 6, 10]: {'average_loss': 0.923385, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 40.62894}
+DNN[5, 9, 7, 5]: {'average_loss': 1.0476047, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 46.09461}
+DNN[5, 9, 7, 6]: {'average_loss': 0.7877678, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.661785}
+DNN[5, 9, 7, 7]: {'average_loss': 0.838269, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.883835}
+DNN[5, 9, 7, 8]: {'average_loss': 0.7971024, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.072506}
+DNN[5, 9, 7, 9]: {'average_loss': 0.86959285, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.262085}
+DNN[5, 9, 7, 10]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[5, 9, 8, 5]: {'average_loss': 0.839118, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.921192}
+DNN[5, 9, 8, 6]: {'average_loss': 0.7658783, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.698647}
+DNN[5, 9, 8, 7]: {'average_loss': 0.8725849, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.393734}
+DNN[5, 9, 8, 8]: {'average_loss': 0.795999, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.023956}
+DNN[5, 9, 8, 9]: {'average_loss': 0.87778455, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.62252}
+DNN[5, 9, 8, 10]: {'average_loss': 0.91155416, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 40.108383}
+DNN[5, 9, 9, 5]: {'average_loss': 0.92757285, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.813206}
+DNN[5, 9, 9, 6]: {'average_loss': 0.9273422, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 40.803055}
+DNN[5, 9, 9, 7]: {'average_loss': 0.93162656, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.99157}
+DNN[5, 9, 9, 8]: {'average_loss': 1.0030377, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 44.13366}
+DNN[5, 9, 9, 9]: {'average_loss': 0.9044848, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.797333}
+DNN[5, 9, 9, 10]: {'average_loss': 0.77339435, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.02935}
+DNN[5, 9, 10, 5]: {'average_loss': 0.81806093, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.994682}
+DNN[5, 9, 10, 6]: {'average_loss': 0.8390749, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.919296}
+DNN[5, 9, 10, 7]: {'average_loss': 0.80527455, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.43208}
+DNN[5, 9, 10, 8]: {'average_loss': 0.8037689, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.36583}
+DNN[5, 9, 10, 9]: {'average_loss': 0.86990166, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 38.275673}
+DNN[5, 9, 10, 10]: {'average_loss': 0.82347673, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.232975}
+DNN[5, 10, 5, 5]: {'average_loss': 0.82074946, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.112976}
+DNN[5, 10, 5, 6]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[5, 10, 5, 7]: {'average_loss': 0.8155079, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.882347}
+DNN[5, 10, 5, 8]: {'average_loss': 0.9338391, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.08892}
+DNN[5, 10, 5, 9]: {'average_loss': 0.754368, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.192192}
+DNN[5, 10, 5, 10]: {'average_loss': 0.8539366, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.57321}
+DNN[5, 10, 6, 5]: {'average_loss': 0.83908945, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.919937}
+DNN[5, 10, 6, 6]: {'average_loss': 0.828644, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.460335}
+DNN[5, 10, 6, 7]: {'average_loss': 0.83899426, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91575}
+DNN[5, 10, 6, 8]: {'average_loss': 0.8390177, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91678}
+DNN[5, 10, 6, 9]: {'average_loss': 0.8945852, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.361748}
+DNN[5, 10, 6, 10]: {'average_loss': 0.8391247, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.921486}
+DNN[5, 10, 7, 5]: {'average_loss': 0.76041317, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.45818}
+DNN[5, 10, 7, 6]: {'average_loss': 0.80548835, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.441486}
+DNN[5, 10, 7, 7]: {'average_loss': 0.7828447, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.445168}
+DNN[5, 10, 7, 8]: {'average_loss': 1.081269, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 47.575836}
+DNN[5, 10, 7, 9]: {'average_loss': 0.81791216, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.988136}
+DNN[5, 10, 7, 10]: {'average_loss': 0.6985307, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 30.73535}
+DNN[5, 10, 8, 5]: {'average_loss': 0.8143162, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.829914}
+DNN[5, 10, 8, 6]: {'average_loss': 0.81471616, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.84751}
+DNN[5, 10, 8, 7]: {'average_loss': 0.79046226, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.78034}
+DNN[5, 10, 8, 8]: {'average_loss': 0.8554323, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 37.63902}
+DNN[5, 10, 8, 9]: {'average_loss': 1.4410408, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 63.405792}
+DNN[5, 10, 8, 10]: {'average_loss': 0.8408449, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.997177}
+DNN[5, 10, 9, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 10, 9, 6]: {'average_loss': 0.85544586, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.639618}
+DNN[5, 10, 9, 7]: {'average_loss': 0.83447856, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.717056}
+DNN[5, 10, 9, 8]: {'average_loss': 0.83837295, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.88841}
+DNN[5, 10, 9, 9]: {'average_loss': 0.94294095, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 41.489403}
+DNN[5, 10, 9, 10]: {'average_loss': 1.0115473, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 44.508083}
+DNN[5, 10, 10, 5]: {'average_loss': 0.85043025, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.41893}
+DNN[5, 10, 10, 6]: {'average_loss': 0.79466414, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.96522}
+DNN[5, 10, 10, 7]: {'average_loss': 0.8231633, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.219185}
+DNN[5, 10, 10, 8]: {'average_loss': 0.87211967, 'accuracy': 0.5, 'global_step': 1000, 'loss': 38.373264}
+DNN[5, 10, 10, 9]: {'average_loss': 0.83979803, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.951115}
+DNN[5, 10, 10, 10]: {'average_loss': 1.0433365, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.906807}
+DNN[6, 5, 5, 5]: {'average_loss': 0.8172872, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.960636}
+DNN[6, 5, 5, 6]: {'average_loss': 0.79136276, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.81996}
+DNN[6, 5, 5, 7]: {'average_loss': 0.8400187, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.960823}
+DNN[6, 5, 5, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 5, 5, 9]: {'average_loss': 0.77817637, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.23976}
+DNN[6, 5, 5, 10]: {'average_loss': 0.8291592, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.483006}
+DNN[6, 5, 6, 5]: {'average_loss': 1.2891905, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 56.724384}
+DNN[6, 5, 6, 6]: {'average_loss': 0.7511423, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.050262}
+DNN[6, 5, 6, 7]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[6, 5, 6, 8]: {'average_loss': 0.85651535, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.686676}
+DNN[6, 5, 6, 9]: {'average_loss': 1.3420389, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 59.04971}
+DNN[6, 5, 6, 10]: {'average_loss': 0.7781896, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.24034}
+DNN[6, 5, 7, 5]: {'average_loss': 0.7789522, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.273895}
+DNN[6, 5, 7, 6]: {'average_loss': 0.80544126, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.439415}
+DNN[6, 5, 7, 7]: {'average_loss': 0.8334504, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.671818}
+DNN[6, 5, 7, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 5, 7, 9]: {'average_loss': 0.8262112, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 36.353294}
+DNN[6, 5, 7, 10]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[6, 5, 8, 5]: {'average_loss': 0.85343367, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.551083}
+DNN[6, 5, 8, 6]: {'average_loss': 0.7410616, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 32.606712}
+DNN[6, 5, 8, 7]: {'average_loss': 0.9261484, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.75053}
+DNN[6, 5, 8, 8]: {'average_loss': 0.84590435, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.21979}
+DNN[6, 5, 8, 9]: {'average_loss': 0.78126943, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.375854}
+DNN[6, 5, 8, 10]: {'average_loss': 0.8389929, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915688}
+DNN[6, 5, 9, 5]: {'average_loss': 0.87160265, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.350517}
+DNN[6, 5, 9, 6]: {'average_loss': 0.800437, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.219227}
+DNN[6, 5, 9, 7]: {'average_loss': 0.8750505, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.50222}
+DNN[6, 5, 9, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 5, 9, 9]: {'average_loss': 0.8699588, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.278187}
+DNN[6, 5, 9, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 5, 10, 5]: {'average_loss': 0.94618887, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 41.63231}
+DNN[6, 5, 10, 6]: {'average_loss': 0.83915, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9226}
+DNN[6, 5, 10, 7]: {'average_loss': 0.9611986, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 42.29274}
+DNN[6, 5, 10, 8]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[6, 5, 10, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 5, 10, 10]: {'average_loss': 0.838699, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.902756}
+DNN[6, 6, 5, 5]: {'average_loss': 0.8435638, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.116806}
+DNN[6, 6, 5, 6]: {'average_loss': 0.68370837, 'accuracy': 0.77272725, 'global_step': 1000, 'loss': 30.083168}
+DNN[6, 6, 5, 7]: {'average_loss': 0.78902054, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.716904}
+DNN[6, 6, 5, 8]: {'average_loss': 0.8165888, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.92991}
+DNN[6, 6, 5, 9]: {'average_loss': 0.7787044, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.262993}
+DNN[6, 6, 5, 10]: {'average_loss': 0.9305092, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 40.942406}
+DNN[6, 6, 6, 5]: {'average_loss': 0.83900505, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91622}
+DNN[6, 6, 6, 6]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[6, 6, 6, 7]: {'average_loss': 0.888736, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.104385}
+DNN[6, 6, 6, 8]: {'average_loss': 0.75532156, 'accuracy': 0.75, 'global_step': 1000, 'loss': 33.23415}
+DNN[6, 6, 6, 9]: {'average_loss': 0.8654756, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.080925}
+DNN[6, 6, 6, 10]: {'average_loss': 0.89254767, 'accuracy': 0.5, 'global_step': 1000, 'loss': 39.2721}
+DNN[6, 6, 7, 5]: {'average_loss': 0.8384246, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.890682}
+DNN[6, 6, 7, 6]: {'average_loss': 0.6775143, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 29.81063}
+DNN[6, 6, 7, 7]: {'average_loss': 1.0841821, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 47.704014}
+DNN[6, 6, 7, 8]: {'average_loss': 0.83923286, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.926247}
+DNN[6, 6, 7, 9]: {'average_loss': 1.1982887, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 52.7247}
+DNN[6, 6, 7, 10]: {'average_loss': 1.1666863, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 51.334198}
+DNN[6, 6, 8, 5]: {'average_loss': 0.82404894, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.258152}
+DNN[6, 6, 8, 6]: {'average_loss': 1.023471, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.032726}
+DNN[6, 6, 8, 7]: {'average_loss': 0.8613712, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 37.900333}
+DNN[6, 6, 8, 8]: {'average_loss': 0.9184141, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.41022}
+DNN[6, 6, 8, 9]: {'average_loss': 0.9547211, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.00773}
+DNN[6, 6, 8, 10]: {'average_loss': 0.9189901, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.435562}
+DNN[6, 6, 9, 5]: {'average_loss': 0.7506449, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 33.028378}
+DNN[6, 6, 9, 6]: {'average_loss': 1.1597373, 'accuracy': 0.5, 'global_step': 1000, 'loss': 51.028442}
+DNN[6, 6, 9, 7]: {'average_loss': 1.1700193, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 51.48085}
+DNN[6, 6, 9, 8]: {'average_loss': 0.8329498, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.64979}
+DNN[6, 6, 9, 9]: {'average_loss': 0.8148502, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.85341}
+DNN[6, 6, 9, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 6, 10, 5]: {'average_loss': 0.84960896, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.382793}
+DNN[6, 6, 10, 6]: {'average_loss': 0.83906466, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.918846}
+DNN[6, 6, 10, 7]: {'average_loss': 0.7081373, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 31.158041}
+DNN[6, 6, 10, 8]: {'average_loss': 0.83767086, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.857517}
+DNN[6, 6, 10, 9]: {'average_loss': 0.79997444, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.198875}
+DNN[6, 6, 10, 10]: {'average_loss': 0.8718895, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.363136}
+DNN[6, 7, 5, 5]: {'average_loss': 0.8351616, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 36.747112}
+DNN[6, 7, 5, 6]: {'average_loss': 0.83949035, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 36.937576}
+DNN[6, 7, 5, 7]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[6, 7, 5, 8]: {'average_loss': 0.8000015, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.200066}
+DNN[6, 7, 5, 9]: {'average_loss': 1.0656403, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 46.888176}
+DNN[6, 7, 5, 10]: {'average_loss': 0.7801988, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.328747}
+DNN[6, 7, 6, 5]: {'average_loss': 0.8427818, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.082397}
+DNN[6, 7, 6, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[6, 7, 6, 7]: {'average_loss': 0.76563144, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.687782}
+DNN[6, 7, 6, 8]: {'average_loss': 0.80560493, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.446617}
+DNN[6, 7, 6, 9]: {'average_loss': 0.89119, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 39.21236}
+DNN[6, 7, 6, 10]: {'average_loss': 0.859897, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.83547}
+DNN[6, 7, 7, 5]: {'average_loss': 0.83869225, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.90246}
+DNN[6, 7, 7, 6]: {'average_loss': 0.92493147, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 40.696983}
+DNN[6, 7, 7, 7]: {'average_loss': 0.8518257, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 37.48033}
+DNN[6, 7, 7, 8]: {'average_loss': 0.67488056, 'accuracy': 0.75, 'global_step': 1000, 'loss': 29.694744}
+DNN[6, 7, 7, 9]: {'average_loss': 0.81832606, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.006348}
+DNN[6, 7, 7, 10]: {'average_loss': 0.81083447, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.676716}
+DNN[6, 7, 8, 5]: {'average_loss': 0.8390108, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916473}
+DNN[6, 7, 8, 6]: {'average_loss': 0.84618986, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.232353}
+DNN[6, 7, 8, 7]: {'average_loss': 0.9384325, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 41.29103}
+DNN[6, 7, 8, 8]: {'average_loss': 0.89442724, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.354797}
+DNN[6, 7, 8, 9]: {'average_loss': 0.9509026, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 41.839714}
+DNN[6, 7, 8, 10]: {'average_loss': 0.8831135, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.856995}
+DNN[6, 7, 9, 5]: {'average_loss': 0.82115036, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.130615}
+DNN[6, 7, 9, 6]: {'average_loss': 0.84758586, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.293777}
+DNN[6, 7, 9, 7]: {'average_loss': 0.7880549, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.674416}
+DNN[6, 7, 9, 8]: {'average_loss': 0.7594799, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.417114}
+DNN[6, 7, 9, 9]: {'average_loss': 1.3132739, 'accuracy': 0.5, 'global_step': 1000, 'loss': 57.784054}
+DNN[6, 7, 9, 10]: {'average_loss': 0.80850756, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.574333}
+DNN[6, 7, 10, 5]: {'average_loss': 0.8390219, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916965}
+DNN[6, 7, 10, 6]: {'average_loss': 0.865229, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.070076}
+DNN[6, 7, 10, 7]: {'average_loss': 0.83909535, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920197}
+DNN[6, 7, 10, 8]: {'average_loss': 0.8326227, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.6354}
+DNN[6, 7, 10, 9]: {'average_loss': 0.8290054, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.47624}
+DNN[6, 7, 10, 10]: {'average_loss': 1.2301272, 'accuracy': 0.5, 'global_step': 1000, 'loss': 54.125595}
+DNN[6, 8, 5, 5]: {'average_loss': 0.7938793, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.930687}
+DNN[6, 8, 5, 6]: {'average_loss': 0.7596651, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.425262}
+DNN[6, 8, 5, 7]: {'average_loss': 0.8271925, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.39647}
+DNN[6, 8, 5, 8]: {'average_loss': 1.036448, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 45.603714}
+DNN[6, 8, 5, 9]: {'average_loss': 0.8365316, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.80739}
+DNN[6, 8, 5, 10]: {'average_loss': 0.8869758, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.026936}
+DNN[6, 8, 6, 5]: {'average_loss': 1.1053231, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 48.634216}
+DNN[6, 8, 6, 6]: {'average_loss': 0.89912397, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 39.561455}
+DNN[6, 8, 6, 7]: {'average_loss': 0.72432476, 'accuracy': 0.77272725, 'global_step': 1000, 'loss': 31.870289}
+DNN[6, 8, 6, 8]: {'average_loss': 0.9551607, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 42.02707}
+DNN[6, 8, 6, 9]: {'average_loss': 0.79460627, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.962677}
+DNN[6, 8, 6, 10]: {'average_loss': 1.0245175, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 45.078773}
+DNN[6, 8, 7, 5]: {'average_loss': 0.8203339, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.094692}
+DNN[6, 8, 7, 6]: {'average_loss': 0.88879323, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.106903}
+DNN[6, 8, 7, 7]: {'average_loss': 0.8682707, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 38.20391}
+DNN[6, 8, 7, 8]: {'average_loss': 0.8148622, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.853935}
+DNN[6, 8, 7, 9]: {'average_loss': 0.8205944, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.10615}
+DNN[6, 8, 7, 10]: {'average_loss': 0.8829399, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 38.849354}
+DNN[6, 8, 8, 5]: {'average_loss': 0.8603866, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.85701}
+DNN[6, 8, 8, 6]: {'average_loss': 0.8155129, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 35.88257}
+DNN[6, 8, 8, 7]: {'average_loss': 0.9228996, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.607582}
+DNN[6, 8, 8, 8]: {'average_loss': 0.7774134, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.206192}
+DNN[6, 8, 8, 9]: {'average_loss': 0.996755, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 43.85722}
+DNN[6, 8, 8, 10]: {'average_loss': 0.9468603, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.661854}
+DNN[6, 8, 9, 5]: {'average_loss': 0.83899593, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91582}
+DNN[6, 8, 9, 6]: {'average_loss': 0.81189954, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.72358}
+DNN[6, 8, 9, 7]: {'average_loss': 0.83865255, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.90071}
+DNN[6, 8, 9, 8]: {'average_loss': 0.75395226, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.1739}
+DNN[6, 8, 9, 9]: {'average_loss': 0.8824249, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 38.826694}
+DNN[6, 8, 9, 10]: {'average_loss': 0.86414754, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.02249}
+DNN[6, 8, 10, 5]: {'average_loss': 0.8319137, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.604202}
+DNN[6, 8, 10, 6]: {'average_loss': 0.83901906, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91684}
+DNN[6, 8, 10, 7]: {'average_loss': 0.8083599, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.567837}
+DNN[6, 8, 10, 8]: {'average_loss': 0.91440827, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.233963}
+DNN[6, 8, 10, 9]: {'average_loss': 0.94045794, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 41.38015}
+DNN[6, 8, 10, 10]: {'average_loss': 0.94444185, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.555443}
+DNN[6, 9, 5, 5]: {'average_loss': 0.8493046, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.369404}
+DNN[6, 9, 5, 6]: {'average_loss': 0.83900446, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916195}
+DNN[6, 9, 5, 7]: {'average_loss': 0.78489184, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.53524}
+DNN[6, 9, 5, 8]: {'average_loss': 0.69340986, 'accuracy': 0.79545456, 'global_step': 1000, 'loss': 30.510033}
+DNN[6, 9, 5, 9]: {'average_loss': 0.8404036, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.97776}
+DNN[6, 9, 5, 10]: {'average_loss': 0.9465034, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 41.64615}
+DNN[6, 9, 6, 5]: {'average_loss': 0.7804043, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.33779}
+DNN[6, 9, 6, 6]: {'average_loss': 0.9444616, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 41.55631}
+DNN[6, 9, 6, 7]: {'average_loss': 0.82952, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.49888}
+DNN[6, 9, 6, 8]: {'average_loss': 0.9057703, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.853893}
+DNN[6, 9, 6, 9]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[6, 9, 6, 10]: {'average_loss': 0.8665091, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.1264}
+DNN[6, 9, 7, 5]: {'average_loss': 0.9746751, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.885704}
+DNN[6, 9, 7, 6]: {'average_loss': 1.913982, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 84.21521}
+DNN[6, 9, 7, 7]: {'average_loss': 0.87108684, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.32782}
+DNN[6, 9, 7, 8]: {'average_loss': 0.8619869, 'accuracy': 0.75, 'global_step': 1000, 'loss': 37.92742}
+DNN[6, 9, 7, 9]: {'average_loss': 0.83054614, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.54403}
+DNN[6, 9, 7, 10]: {'average_loss': 1.0335923, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.478065}
+DNN[6, 9, 8, 5]: {'average_loss': 0.9097571, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 40.029312}
+DNN[6, 9, 8, 6]: {'average_loss': 0.84952736, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.379204}
+DNN[6, 9, 8, 7]: {'average_loss': 0.8491043, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 37.360588}
+DNN[6, 9, 8, 8]: {'average_loss': 0.98390347, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 43.29175}
+DNN[6, 9, 8, 9]: {'average_loss': 0.85236895, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.504234}
+DNN[6, 9, 8, 10]: {'average_loss': 0.7834461, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.471626}
+DNN[6, 9, 9, 5]: {'average_loss': 0.77752304, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 34.211014}
+DNN[6, 9, 9, 6]: {'average_loss': 0.83907336, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.919228}
+DNN[6, 9, 9, 7]: {'average_loss': 0.72547394, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 31.920853}
+DNN[6, 9, 9, 8]: {'average_loss': 0.838998, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915913}
+DNN[6, 9, 9, 9]: {'average_loss': 0.8317198, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 36.595673}
+DNN[6, 9, 9, 10]: {'average_loss': 0.8659702, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.102688}
+DNN[6, 9, 10, 5]: {'average_loss': 0.974176, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 42.863743}
+DNN[6, 9, 10, 6]: {'average_loss': 0.7475386, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 32.8917}
+DNN[6, 9, 10, 7]: {'average_loss': 0.85801405, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.752617}
+DNN[6, 9, 10, 8]: {'average_loss': 0.7966624, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.053146}
+DNN[6, 9, 10, 9]: {'average_loss': 0.88121486, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 38.773453}
+DNN[6, 9, 10, 10]: {'average_loss': 0.92739236, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 40.805264}
+DNN[6, 10, 5, 5]: {'average_loss': 0.8390787, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.919464}
+DNN[6, 10, 5, 6]: {'average_loss': 0.88636327, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.999985}
+DNN[6, 10, 5, 7]: {'average_loss': 0.91765195, 'accuracy': 0.5, 'global_step': 1000, 'loss': 40.376686}
+DNN[6, 10, 5, 8]: {'average_loss': 1.0116208, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 44.511314}
+DNN[6, 10, 5, 9]: {'average_loss': 0.8433445, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.10716}
+DNN[6, 10, 5, 10]: {'average_loss': 0.8389979, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91591}
+DNN[6, 10, 6, 5]: {'average_loss': 0.7989502, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.15381}
+DNN[6, 10, 6, 6]: {'average_loss': 0.83972687, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.947983}
+DNN[6, 10, 6, 7]: {'average_loss': 0.9974655, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 43.88848}
+DNN[6, 10, 6, 8]: {'average_loss': 0.8043608, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.391876}
+DNN[6, 10, 6, 9]: {'average_loss': 0.84121346, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.013393}
+DNN[6, 10, 6, 10]: {'average_loss': 1.428817, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 62.86795}
+DNN[6, 10, 7, 5]: {'average_loss': 0.7753532, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.11554}
+DNN[6, 10, 7, 6]: {'average_loss': 0.8390534, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91835}
+DNN[6, 10, 7, 7]: {'average_loss': 0.77910095, 'accuracy': 0.75, 'global_step': 1000, 'loss': 34.28044}
+DNN[6, 10, 7, 8]: {'average_loss': 0.9993328, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 43.970642}
+DNN[6, 10, 7, 9]: {'average_loss': 0.8609216, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.88055}
+DNN[6, 10, 7, 10]: {'average_loss': 1.0251579, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 45.10695}
+DNN[6, 10, 8, 5]: {'average_loss': 0.7942343, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.94631}
+DNN[6, 10, 8, 6]: {'average_loss': 0.86445135, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.03586}
+DNN[6, 10, 8, 7]: {'average_loss': 0.8381169, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.877144}
+DNN[6, 10, 8, 8]: {'average_loss': 1.0462441, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 46.034744}
+DNN[6, 10, 8, 9]: {'average_loss': 0.79709107, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 35.072006}
+DNN[6, 10, 8, 10]: {'average_loss': 0.78387254, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.49039}
+DNN[6, 10, 9, 5]: {'average_loss': 0.80472547, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.40792}
+DNN[6, 10, 9, 6]: {'average_loss': 0.7208785, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 31.718653}
+DNN[6, 10, 9, 7]: {'average_loss': 0.85459346, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.60211}
+DNN[6, 10, 9, 8]: {'average_loss': 0.8389936, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915718}
+DNN[6, 10, 9, 9]: {'average_loss': 0.82179505, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.15898}
+DNN[6, 10, 9, 10]: {'average_loss': 0.77126294, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.93557}
+DNN[6, 10, 10, 5]: {'average_loss': 0.85027504, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.4121}
+DNN[6, 10, 10, 6]: {'average_loss': 0.8649887, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.0595}
+DNN[6, 10, 10, 7]: {'average_loss': 0.9355376, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 41.163654}
+DNN[6, 10, 10, 8]: {'average_loss': 0.7252095, 'accuracy': 0.75, 'global_step': 1000, 'loss': 31.909218}
+DNN[6, 10, 10, 9]: {'average_loss': 1.2475708, 'accuracy': 0.5, 'global_step': 1000, 'loss': 54.893112}
+DNN[6, 10, 10, 10]: {'average_loss': 0.8674717, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.168755}
+DNN[7, 5, 5, 5]: {'average_loss': 0.8390179, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91679}
+DNN[7, 5, 5, 6]: {'average_loss': 0.92762375, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.815445}
+DNN[7, 5, 5, 7]: {'average_loss': 1.0638618, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 46.80992}
+DNN[7, 5, 5, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[7, 5, 5, 9]: {'average_loss': 0.9475531, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 41.692337}
+DNN[7, 5, 5, 10]: {'average_loss': 0.8588536, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.78956}
+DNN[7, 5, 6, 5]: {'average_loss': 0.8389979, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91591}
+DNN[7, 5, 6, 6]: {'average_loss': 1.0566409, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 46.4922}
+DNN[7, 5, 6, 7]: {'average_loss': 0.86680865, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.13958}
+DNN[7, 5, 6, 8]: {'average_loss': 0.83905864, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91858}
+DNN[7, 5, 6, 9]: {'average_loss': 0.9636298, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 42.39971}
+DNN[7, 5, 6, 10]: {'average_loss': 0.7935427, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.91588}
+DNN[7, 5, 7, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[7, 5, 7, 6]: {'average_loss': 0.84380096, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.127243}
+DNN[7, 5, 7, 7]: {'average_loss': 0.8332549, 'accuracy': 0.5, 'global_step': 1000, 'loss': 36.663216}
+DNN[7, 5, 7, 8]: {'average_loss': 0.8297538, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.509167}
+DNN[7, 5, 7, 9]: {'average_loss': 0.9412941, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 41.41694}
+DNN[7, 5, 7, 10]: {'average_loss': 0.7900004, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.760017}
+DNN[7, 5, 8, 5]: {'average_loss': 0.88698524, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.02735}
+DNN[7, 5, 8, 6]: {'average_loss': 0.82150453, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.1462}
+DNN[7, 5, 8, 7]: {'average_loss': 0.816082, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.907608}
+DNN[7, 5, 8, 8]: {'average_loss': 0.91982365, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 40.47224}
+DNN[7, 5, 8, 9]: {'average_loss': 0.82829875, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.445145}
+DNN[7, 5, 8, 10]: {'average_loss': 0.865082, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.06361}
+DNN[7, 5, 9, 5]: {'average_loss': 0.83899707, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91587}
+DNN[7, 5, 9, 6]: {'average_loss': 0.83902305, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917015}
+DNN[7, 5, 9, 7]: {'average_loss': 0.88490826, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.935963}
+DNN[7, 5, 9, 8]: {'average_loss': 0.83818036, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.879936}
+DNN[7, 5, 9, 9]: {'average_loss': 0.93739146, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 41.245224}
+DNN[7, 5, 9, 10]: {'average_loss': 0.8940992, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.340363}
+DNN[7, 5, 10, 5]: {'average_loss': 0.9236918, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.64244}
+DNN[7, 5, 10, 6]: {'average_loss': 1.2931962, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 56.90063}
+DNN[7, 5, 10, 7]: {'average_loss': 0.830209, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.529198}
+DNN[7, 5, 10, 8]: {'average_loss': 0.7419319, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.645004}
+DNN[7, 5, 10, 9]: {'average_loss': 0.96665096, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.532642}
+DNN[7, 5, 10, 10]: {'average_loss': 0.8237623, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.24554}
+DNN[7, 6, 5, 5]: {'average_loss': 0.83194774, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.6057}
+DNN[7, 6, 5, 6]: {'average_loss': 0.8390362, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917595}
+DNN[7, 6, 5, 7]: {'average_loss': 0.8414449, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.023575}
+DNN[7, 6, 5, 8]: {'average_loss': 0.78274995, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.440998}
+DNN[7, 6, 5, 9]: {'average_loss': 0.9522856, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.900566}
+DNN[7, 6, 5, 10]: {'average_loss': 0.8377499, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.860996}
+DNN[7, 6, 6, 5]: {'average_loss': 0.75018305, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.008053}
+DNN[7, 6, 6, 6]: {'average_loss': 0.78142494, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.382698}
+DNN[7, 6, 6, 7]: {'average_loss': 0.76618177, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.711998}
+DNN[7, 6, 6, 8]: {'average_loss': 0.8263425, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.35907}
+DNN[7, 6, 6, 9]: {'average_loss': 0.8338106, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.687668}
+DNN[7, 6, 6, 10]: {'average_loss': 0.71010786, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 31.244747}
+DNN[7, 6, 7, 5]: {'average_loss': 0.96680605, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.539467}
+DNN[7, 6, 7, 6]: {'average_loss': 0.83909374, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920124}
+DNN[7, 6, 7, 7]: {'average_loss': 0.8847552, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.92923}
+DNN[7, 6, 7, 8]: {'average_loss': 0.8307802, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.55433}
+DNN[7, 6, 7, 9]: {'average_loss': 0.76968557, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.866165}
+DNN[7, 6, 7, 10]: {'average_loss': 0.84483236, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.172623}
+DNN[7, 6, 8, 5]: {'average_loss': 0.9571218, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 42.113358}
+DNN[7, 6, 8, 6]: {'average_loss': 0.82185024, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.16141}
+DNN[7, 6, 8, 7]: {'average_loss': 0.9127491, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.16096}
+DNN[7, 6, 8, 8]: {'average_loss': 0.8245773, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.2814}
+DNN[7, 6, 8, 9]: {'average_loss': 0.8635222, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.994976}
+DNN[7, 6, 8, 10]: {'average_loss': 0.8395569, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.940502}
+DNN[7, 6, 9, 5]: {'average_loss': 0.8720761, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.37135}
+DNN[7, 6, 9, 6]: {'average_loss': 1.1011316, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 48.44979}
+DNN[7, 6, 9, 7]: {'average_loss': 0.9227717, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.601955}
+DNN[7, 6, 9, 8]: {'average_loss': 1.2333074, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 54.265526}
+DNN[7, 6, 9, 9]: {'average_loss': 0.9522816, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 41.90039}
+DNN[7, 6, 9, 10]: {'average_loss': 0.87800926, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 38.63241}
+DNN[7, 6, 10, 5]: {'average_loss': 0.839036, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917583}
+DNN[7, 6, 10, 6]: {'average_loss': 0.91752553, 'accuracy': 0.5, 'global_step': 1000, 'loss': 40.371124}
+DNN[7, 6, 10, 7]: {'average_loss': 0.9923994, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 43.665573}
+DNN[7, 6, 10, 8]: {'average_loss': 0.7516355, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 33.07196}
+DNN[7, 6, 10, 9]: {'average_loss': 0.90465873, 'accuracy': 0.5, 'global_step': 1000, 'loss': 39.804985}
+DNN[7, 6, 10, 10]: {'average_loss': 0.98477477, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 43.33009}
+DNN[7, 7, 5, 5]: {'average_loss': 0.80474526, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.40879}
+DNN[7, 7, 5, 6]: {'average_loss': 0.85647243, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.684788}
+DNN[7, 7, 5, 7]: {'average_loss': 0.85134166, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 37.459034}
+DNN[7, 7, 5, 8]: {'average_loss': 0.8450258, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.181133}
+DNN[7, 7, 5, 9]: {'average_loss': 0.8389968, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91586}
+DNN[7, 7, 5, 10]: {'average_loss': 0.75084096, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.037003}
+DNN[7, 7, 6, 5]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[7, 7, 6, 6]: {'average_loss': 0.748033, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.913452}
+DNN[7, 7, 6, 7]: {'average_loss': 0.924518, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.67879}
+DNN[7, 7, 6, 8]: {'average_loss': 0.9974241, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 43.88666}
+DNN[7, 7, 6, 9]: {'average_loss': 0.8224054, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.185837}
+DNN[7, 7, 6, 10]: {'average_loss': 0.8408816, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.99879}
+DNN[7, 7, 7, 5]: {'average_loss': 0.928454, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.851974}
+DNN[7, 7, 7, 6]: {'average_loss': 0.8026558, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 35.316856}
+DNN[7, 7, 7, 7]: {'average_loss': 0.8828262, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.844353}
+DNN[7, 7, 7, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[7, 7, 7, 9]: {'average_loss': 0.70190376, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 30.883766}
+DNN[7, 7, 7, 10]: {'average_loss': 0.83083874, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.556904}
+DNN[7, 7, 8, 5]: {'average_loss': 0.90631384, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.877808}
+DNN[7, 7, 8, 6]: {'average_loss': 0.72750527, 'accuracy': 0.75, 'global_step': 1000, 'loss': 32.01023}
+DNN[7, 7, 8, 7]: {'average_loss': 0.8453808, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.196754}
+DNN[7, 7, 8, 8]: {'average_loss': 0.76578104, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.694366}
+DNN[7, 7, 8, 9]: {'average_loss': 0.8956146, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.407043}
+DNN[7, 7, 8, 10]: {'average_loss': 0.97583026, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 42.93653}
+DNN[7, 7, 9, 5]: {'average_loss': 0.8927597, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.281425}
+DNN[7, 7, 9, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[7, 7, 9, 7]: {'average_loss': 0.83900815, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91636}
+DNN[7, 7, 9, 8]: {'average_loss': 0.82120585, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.133057}
+DNN[7, 7, 9, 9]: {'average_loss': 0.7645996, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 33.642384}
+DNN[7, 7, 9, 10]: {'average_loss': 0.80345434, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.35199}
+DNN[7, 7, 10, 5]: {'average_loss': 0.86213857, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.934097}
+DNN[7, 7, 10, 6]: {'average_loss': 0.9057501, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.853004}
+DNN[7, 7, 10, 7]: {'average_loss': 0.6399888, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 28.159506}
+DNN[7, 7, 10, 8]: {'average_loss': 0.93474907, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.12896}
+DNN[7, 7, 10, 9]: {'average_loss': 0.9594745, 'accuracy': 0.5, 'global_step': 1000, 'loss': 42.216877}
+DNN[7, 7, 10, 10]: {'average_loss': 0.873583, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.437653}
+DNN[7, 8, 5, 5]: {'average_loss': 0.7966217, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 35.051353}
+DNN[7, 8, 5, 6]: {'average_loss': 0.8387156, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.90349}
+DNN[7, 8, 5, 7]: {'average_loss': 0.7715824, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.949627}
+DNN[7, 8, 5, 8]: {'average_loss': 0.99861807, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.939194}
+DNN[7, 8, 5, 9]: {'average_loss': 1.0226073, 'accuracy': 0.5, 'global_step': 1000, 'loss': 44.99472}
+DNN[7, 8, 5, 10]: {'average_loss': 0.86766744, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 38.17737}
+DNN[7, 8, 6, 5]: {'average_loss': 0.9862854, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 43.396557}
+DNN[7, 8, 6, 6]: {'average_loss': 1.1545011, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 50.79805}
+DNN[7, 8, 6, 7]: {'average_loss': 0.81874603, 'accuracy': 0.4318182, 'global_step': 1000, 'loss': 36.024826}
+DNN[7, 8, 6, 8]: {'average_loss': 1.0628844, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 46.76692}
+DNN[7, 8, 6, 9]: {'average_loss': 0.95830154, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 42.165268}
+DNN[7, 8, 6, 10]: {'average_loss': 0.93070984, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 40.951233}
+DNN[7, 8, 7, 5]: {'average_loss': 1.1874317, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 52.246994}
+DNN[7, 8, 7, 6]: {'average_loss': 0.8391737, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92364}
+DNN[7, 8, 7, 7]: {'average_loss': 1.1496804, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 50.585938}
+DNN[7, 8, 7, 8]: {'average_loss': 0.81604975, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.90619}
+DNN[7, 8, 7, 9]: {'average_loss': 0.8264685, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.364616}
+DNN[7, 8, 7, 10]: {'average_loss': 0.82204837, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.170128}
+DNN[7, 8, 8, 5]: {'average_loss': 0.83899575, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915813}
+DNN[7, 8, 8, 6]: {'average_loss': 0.8559567, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.662094}
+DNN[7, 8, 8, 7]: {'average_loss': 0.8295246, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.49908}
+DNN[7, 8, 8, 8]: {'average_loss': 0.8023855, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.304962}
+DNN[7, 8, 8, 9]: {'average_loss': 0.9915638, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 43.628807}
+DNN[7, 8, 8, 10]: {'average_loss': 0.767503, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 33.770134}
+DNN[7, 8, 9, 5]: {'average_loss': 0.75823474, 'accuracy': 0.75, 'global_step': 1000, 'loss': 33.362328}
+DNN[7, 8, 9, 6]: {'average_loss': 0.8768125, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 38.57975}
+DNN[7, 8, 9, 7]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[7, 8, 9, 8]: {'average_loss': 0.8621423, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.93426}
+DNN[7, 8, 9, 9]: {'average_loss': 0.7906746, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.789684}
+DNN[7, 8, 9, 10]: {'average_loss': 0.9060513, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.866257}
+DNN[7, 8, 10, 5]: {'average_loss': 0.94945925, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 41.776207}
+DNN[7, 8, 10, 6]: {'average_loss': 0.9084799, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.973118}
+DNN[7, 8, 10, 7]: {'average_loss': 0.83899444, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915756}
+DNN[7, 8, 10, 8]: {'average_loss': 1.3926171, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 61.27515}
+DNN[7, 8, 10, 9]: {'average_loss': 1.5362535, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 67.59515}
+DNN[7, 8, 10, 10]: {'average_loss': 0.7856133, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.566986}
+DNN[7, 9, 5, 5]: {'average_loss': 0.86896324, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.234383}
+DNN[7, 9, 5, 6]: {'average_loss': 0.8222857, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.180573}
+DNN[7, 9, 5, 7]: {'average_loss': 0.84718186, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.276}
+DNN[7, 9, 5, 8]: {'average_loss': 0.79741436, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.08623}
+DNN[7, 9, 5, 9]: {'average_loss': 0.8565523, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.6883}
+DNN[7, 9, 5, 10]: {'average_loss': 0.80861586, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.579098}
+DNN[7, 9, 6, 5]: {'average_loss': 0.84660494, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.250618}
+DNN[7, 9, 6, 6]: {'average_loss': 0.8361629, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.79117}
+DNN[7, 9, 6, 7]: {'average_loss': 0.8707853, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.314552}
+DNN[7, 9, 6, 8]: {'average_loss': 0.7964226, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.042595}
+DNN[7, 9, 6, 9]: {'average_loss': 1.3754042, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 60.517788}
+DNN[7, 9, 6, 10]: {'average_loss': 0.90920544, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.00504}
+DNN[7, 9, 7, 5]: {'average_loss': 0.792927, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.88879}
+DNN[7, 9, 7, 6]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[7, 9, 7, 7]: {'average_loss': 0.83919257, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.924473}
+DNN[7, 9, 7, 8]: {'average_loss': 0.8345714, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.72114}
+DNN[7, 9, 7, 9]: {'average_loss': 1.3497978, 'accuracy': 0.38636363, 'global_step': 1000, 'loss': 59.391106}
+DNN[7, 9, 7, 10]: {'average_loss': 0.7839412, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.493412}
+DNN[7, 9, 8, 5]: {'average_loss': 0.8596743, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.82567}
+DNN[7, 9, 8, 6]: {'average_loss': 1.1625462, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 51.15203}
+DNN[7, 9, 8, 7]: {'average_loss': 0.83912015, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.921288}
+DNN[7, 9, 8, 8]: {'average_loss': 0.7732479, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 34.022907}
+DNN[7, 9, 8, 9]: {'average_loss': 0.83148074, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.58515}
+DNN[7, 9, 8, 10]: {'average_loss': 0.8484028, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.329723}
+DNN[7, 9, 9, 5]: {'average_loss': 0.8889269, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.112785}
+DNN[7, 9, 9, 6]: {'average_loss': 0.95830935, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.16561}
+DNN[7, 9, 9, 7]: {'average_loss': 0.80733544, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 35.52276}
+DNN[7, 9, 9, 8]: {'average_loss': 0.93607086, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 41.18712}
+DNN[7, 9, 9, 9]: {'average_loss': 0.9326841, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 41.0381}
+DNN[7, 9, 9, 10]: {'average_loss': 1.1474208, 'accuracy': 0.4318182, 'global_step': 1000, 'loss': 50.48651}
+DNN[7, 9, 10, 5]: {'average_loss': 0.86677355, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 38.138035}
+DNN[7, 9, 10, 6]: {'average_loss': 0.8391154, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.921078}
+DNN[7, 9, 10, 7]: {'average_loss': 0.7625975, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.55429}
+DNN[7, 9, 10, 8]: {'average_loss': 0.9069166, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.90433}
+DNN[7, 9, 10, 9]: {'average_loss': 0.8897751, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.150105}
+DNN[7, 9, 10, 10]: {'average_loss': 0.8285877, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.45786}
+DNN[7, 10, 5, 5]: {'average_loss': 0.79123014, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.814125}
+DNN[7, 10, 5, 6]: {'average_loss': 1.1265249, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 49.567097}
+DNN[7, 10, 5, 7]: {'average_loss': 0.95164895, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.872555}
+DNN[7, 10, 5, 8]: {'average_loss': 0.8390255, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91712}
+DNN[7, 10, 5, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[7, 10, 5, 10]: {'average_loss': 0.967294, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 42.560936}
+DNN[7, 10, 6, 5]: {'average_loss': 0.8963043, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 39.43739}
+DNN[7, 10, 6, 6]: {'average_loss': 0.7606638, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.469208}
+DNN[7, 10, 6, 7]: {'average_loss': 0.9604132, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 42.258183}
+DNN[7, 10, 6, 8]: {'average_loss': 1.0485704, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 46.137096}
+DNN[7, 10, 6, 9]: {'average_loss': 0.95052963, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 41.823303}
+DNN[7, 10, 6, 10]: {'average_loss': 0.8317186, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.59562}
+DNN[7, 10, 7, 5]: {'average_loss': 0.8097422, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.62866}
+DNN[7, 10, 7, 6]: {'average_loss': 1.117952, 'accuracy': 0.5, 'global_step': 1000, 'loss': 49.189888}
+DNN[7, 10, 7, 7]: {'average_loss': 0.8437224, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.123787}
+DNN[7, 10, 7, 8]: {'average_loss': 0.7870489, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 34.63015}
+DNN[7, 10, 7, 9]: {'average_loss': 0.8758743, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.538467}
+DNN[7, 10, 7, 10]: {'average_loss': 0.8389957, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91581}
+DNN[7, 10, 8, 5]: {'average_loss': 0.83913994, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.922157}
+DNN[7, 10, 8, 6]: {'average_loss': 0.9253819, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.716805}
+DNN[7, 10, 8, 7]: {'average_loss': 0.9282103, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 40.841255}
+DNN[7, 10, 8, 8]: {'average_loss': 0.8406197, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.987267}
+DNN[7, 10, 8, 9]: {'average_loss': 1.5365573, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 67.60852}
+DNN[7, 10, 8, 10]: {'average_loss': 0.8866522, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.012695}
+DNN[7, 10, 9, 5]: {'average_loss': 0.8188891, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.03112}
+DNN[7, 10, 9, 6]: {'average_loss': 0.8054249, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.438698}
+DNN[7, 10, 9, 7]: {'average_loss': 0.8333216, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.66615}
+DNN[7, 10, 9, 8]: {'average_loss': 1.0251175, 'accuracy': 0.5, 'global_step': 1000, 'loss': 45.10517}
+DNN[7, 10, 9, 9]: {'average_loss': 0.7677578, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.78134}
+DNN[7, 10, 9, 10]: {'average_loss': 1.115603, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 49.086533}
+DNN[7, 10, 10, 5]: {'average_loss': 0.8417175, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.03557}
+DNN[7, 10, 10, 6]: {'average_loss': 0.8386026, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.898514}
+DNN[7, 10, 10, 7]: {'average_loss': 0.9769779, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 42.987026}
+DNN[7, 10, 10, 8]: {'average_loss': 0.77601224, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.14454}
+DNN[7, 10, 10, 9]: {'average_loss': 1.000652, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 44.028687}
+DNN[7, 10, 10, 10]: {'average_loss': 1.1235126, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 49.434555}
+DNN[8, 5, 5, 5]: {'average_loss': 0.7176518, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 31.576677}
+DNN[8, 5, 5, 6]: {'average_loss': 0.8654085, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.077972}
+DNN[8, 5, 5, 7]: {'average_loss': 0.95828986, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.164753}
+DNN[8, 5, 5, 8]: {'average_loss': 0.8325403, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.63177}
+DNN[8, 5, 5, 9]: {'average_loss': 0.8145977, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.8423}
+DNN[8, 5, 5, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 5, 6, 5]: {'average_loss': 0.8390316, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91739}
+DNN[8, 5, 6, 6]: {'average_loss': 0.74806976, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.91507}
+DNN[8, 5, 6, 7]: {'average_loss': 0.891392, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 39.22125}
+DNN[8, 5, 6, 8]: {'average_loss': 0.7492899, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 32.968754}
+DNN[8, 5, 6, 9]: {'average_loss': 0.82771474, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.41945}
+DNN[8, 5, 6, 10]: {'average_loss': 0.88133013, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.778526}
+DNN[8, 5, 7, 5]: {'average_loss': 0.8384213, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.890537}
+DNN[8, 5, 7, 6]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[8, 5, 7, 7]: {'average_loss': 0.84018415, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9681}
+DNN[8, 5, 7, 8]: {'average_loss': 0.8179554, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.990036}
+DNN[8, 5, 7, 9]: {'average_loss': 0.7206029, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 31.70653}
+DNN[8, 5, 7, 10]: {'average_loss': 0.7277375, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.02045}
+DNN[8, 5, 8, 5]: {'average_loss': 0.83882046, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.9081}
+DNN[8, 5, 8, 6]: {'average_loss': 0.9199032, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.475742}
+DNN[8, 5, 8, 7]: {'average_loss': 1.0840422, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 47.697857}
+DNN[8, 5, 8, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 5, 8, 9]: {'average_loss': 0.8491793, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.36389}
+DNN[8, 5, 8, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 5, 9, 5]: {'average_loss': 0.838994, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915737}
+DNN[8, 5, 9, 6]: {'average_loss': 0.8984471, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.531673}
+DNN[8, 5, 9, 7]: {'average_loss': 0.8391011, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92045}
+DNN[8, 5, 9, 8]: {'average_loss': 0.85212004, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.493282}
+DNN[8, 5, 9, 9]: {'average_loss': 0.8167108, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.935276}
+DNN[8, 5, 9, 10]: {'average_loss': 0.9352141, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 41.14942}
+DNN[8, 5, 10, 5]: {'average_loss': 0.83900744, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91633}
+DNN[8, 5, 10, 6]: {'average_loss': 0.83795047, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.86982}
+DNN[8, 5, 10, 7]: {'average_loss': 0.8642544, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.027195}
+DNN[8, 5, 10, 8]: {'average_loss': 0.8807222, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.751778}
+DNN[8, 5, 10, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 5, 10, 10]: {'average_loss': 0.80681175, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.499718}
+DNN[8, 6, 5, 5]: {'average_loss': 0.8390154, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91668}
+DNN[8, 6, 5, 6]: {'average_loss': 0.8000713, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.203136}
+DNN[8, 6, 5, 7]: {'average_loss': 0.76083475, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.47673}
+DNN[8, 6, 5, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 6, 5, 9]: {'average_loss': 0.7677656, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.781685}
+DNN[8, 6, 5, 10]: {'average_loss': 0.8343132, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.70978}
+DNN[8, 6, 6, 5]: {'average_loss': 0.7713015, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.937267}
+DNN[8, 6, 6, 6]: {'average_loss': 0.78815496, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.678818}
+DNN[8, 6, 6, 7]: {'average_loss': 0.84044766, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9797}
+DNN[8, 6, 6, 8]: {'average_loss': 0.82484394, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.293133}
+DNN[8, 6, 6, 9]: {'average_loss': 0.8165708, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.929115}
+DNN[8, 6, 6, 10]: {'average_loss': 0.8383701, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.888283}
+DNN[8, 6, 7, 5]: {'average_loss': 0.8880999, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.076397}
+DNN[8, 6, 7, 6]: {'average_loss': 0.8140355, 'accuracy': 0.75, 'global_step': 1000, 'loss': 35.817562}
+DNN[8, 6, 7, 7]: {'average_loss': 0.9537019, 'accuracy': 0.5, 'global_step': 1000, 'loss': 41.962883}
+DNN[8, 6, 7, 8]: {'average_loss': 0.81458247, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.84163}
+DNN[8, 6, 7, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 6, 7, 10]: {'average_loss': 0.94307286, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 41.495205}
+DNN[8, 6, 8, 5]: {'average_loss': 0.7867607, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.61747}
+DNN[8, 6, 8, 6]: {'average_loss': 0.8304789, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.541073}
+DNN[8, 6, 8, 7]: {'average_loss': 0.8087908, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.586796}
+DNN[8, 6, 8, 8]: {'average_loss': 0.8912119, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.213326}
+DNN[8, 6, 8, 9]: {'average_loss': 0.84165686, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.0329}
+DNN[8, 6, 8, 10]: {'average_loss': 0.70577306, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 31.054014}
+DNN[8, 6, 9, 5]: {'average_loss': 0.8303279, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.534428}
+DNN[8, 6, 9, 6]: {'average_loss': 0.9973148, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 43.88185}
+DNN[8, 6, 9, 7]: {'average_loss': 0.77994, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.31736}
+DNN[8, 6, 9, 8]: {'average_loss': 0.8001978, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.208702}
+DNN[8, 6, 9, 9]: {'average_loss': 1.3240641, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 58.25882}
+DNN[8, 6, 9, 10]: {'average_loss': 0.9560207, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 42.06491}
+DNN[8, 6, 10, 5]: {'average_loss': 0.95267653, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 41.917767}
+DNN[8, 6, 10, 6]: {'average_loss': 0.9307753, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.954113}
+DNN[8, 6, 10, 7]: {'average_loss': 0.8506332, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.42786}
+DNN[8, 6, 10, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 6, 10, 9]: {'average_loss': 0.81257254, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.753193}
+DNN[8, 6, 10, 10]: {'average_loss': 0.78833556, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.686764}
+DNN[8, 7, 5, 5]: {'average_loss': 0.8004954, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.221798}
+DNN[8, 7, 5, 6]: {'average_loss': 0.8339641, 'accuracy': 0.4318182, 'global_step': 1000, 'loss': 36.69442}
+DNN[8, 7, 5, 7]: {'average_loss': 0.8762077, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.55314}
+DNN[8, 7, 5, 8]: {'average_loss': 0.7654949, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.681774}
+DNN[8, 7, 5, 9]: {'average_loss': 0.86578315, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.09446}
+DNN[8, 7, 5, 10]: {'average_loss': 0.9789207, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 43.07251}
+DNN[8, 7, 6, 5]: {'average_loss': 0.86629957, 'accuracy': 0.4318182, 'global_step': 1000, 'loss': 38.11718}
+DNN[8, 7, 6, 6]: {'average_loss': 0.8068933, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.503304}
+DNN[8, 7, 6, 7]: {'average_loss': 0.9126396, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.156143}
+DNN[8, 7, 6, 8]: {'average_loss': 0.95594716, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.061676}
+DNN[8, 7, 6, 9]: {'average_loss': 0.7725621, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.992733}
+DNN[8, 7, 6, 10]: {'average_loss': 0.69328946, 'accuracy': 0.75, 'global_step': 1000, 'loss': 30.504736}
+DNN[8, 7, 7, 5]: {'average_loss': 0.7943478, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.951305}
+DNN[8, 7, 7, 6]: {'average_loss': 0.85402036, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.576897}
+DNN[8, 7, 7, 7]: {'average_loss': 1.0574394, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 46.527336}
+DNN[8, 7, 7, 8]: {'average_loss': 0.7283405, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.04698}
+DNN[8, 7, 7, 9]: {'average_loss': 0.8354136, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.758198}
+DNN[8, 7, 7, 10]: {'average_loss': 1.1048602, 'accuracy': 0.5, 'global_step': 1000, 'loss': 48.613846}
+DNN[8, 7, 8, 5]: {'average_loss': 0.82358706, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.23783}
+DNN[8, 7, 8, 6]: {'average_loss': 0.8390633, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.918785}
+DNN[8, 7, 8, 7]: {'average_loss': 0.8050556, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.422447}
+DNN[8, 7, 8, 8]: {'average_loss': 0.84243447, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.067116}
+DNN[8, 7, 8, 9]: {'average_loss': 0.7397814, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 32.55038}
+DNN[8, 7, 8, 10]: {'average_loss': 1.0992483, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 48.366924}
+DNN[8, 7, 9, 5]: {'average_loss': 0.7051294, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 31.025692}
+DNN[8, 7, 9, 6]: {'average_loss': 0.98735845, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.44377}
+DNN[8, 7, 9, 7]: {'average_loss': 0.8312854, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.576557}
+DNN[8, 7, 9, 8]: {'average_loss': 0.7995316, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.17939}
+DNN[8, 7, 9, 9]: {'average_loss': 0.926811, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.779682}
+DNN[8, 7, 9, 10]: {'average_loss': 0.6578345, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 28.944717}
+DNN[8, 7, 10, 5]: {'average_loss': 0.7850905, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.543983}
+DNN[8, 7, 10, 6]: {'average_loss': 1.0177263, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 44.779957}
+DNN[8, 7, 10, 7]: {'average_loss': 0.8699736, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 38.27884}
+DNN[8, 7, 10, 8]: {'average_loss': 0.8351978, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.748703}
+DNN[8, 7, 10, 9]: {'average_loss': 0.84282357, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.084236}
+DNN[8, 7, 10, 10]: {'average_loss': 0.93907773, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.31942}
+DNN[8, 8, 5, 5]: {'average_loss': 0.83910197, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920486}
+DNN[8, 8, 5, 6]: {'average_loss': 0.84047407, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.980858}
+DNN[8, 8, 5, 7]: {'average_loss': 0.8007168, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.23154}
+DNN[8, 8, 5, 8]: {'average_loss': 0.8389982, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91592}
+DNN[8, 8, 5, 9]: {'average_loss': 0.84361684, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.11914}
+DNN[8, 8, 5, 10]: {'average_loss': 0.8099291, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.63688}
+DNN[8, 8, 6, 5]: {'average_loss': 0.7946325, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.96383}
+DNN[8, 8, 6, 6]: {'average_loss': 0.83902127, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916935}
+DNN[8, 8, 6, 7]: {'average_loss': 0.82473963, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.288544}
+DNN[8, 8, 6, 8]: {'average_loss': 0.8559522, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.661896}
+DNN[8, 8, 6, 9]: {'average_loss': 0.8390548, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91841}
+DNN[8, 8, 6, 10]: {'average_loss': 0.8355793, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.765488}
+DNN[8, 8, 7, 5]: {'average_loss': 0.85466695, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.605347}
+DNN[8, 8, 7, 6]: {'average_loss': 0.8389957, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91581}
+DNN[8, 8, 7, 7]: {'average_loss': 0.8019413, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.285416}
+DNN[8, 8, 7, 8]: {'average_loss': 0.74208224, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 32.65162}
+DNN[8, 8, 7, 9]: {'average_loss': 0.83902055, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916904}
+DNN[8, 8, 7, 10]: {'average_loss': 0.86882854, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.228455}
+DNN[8, 8, 8, 5]: {'average_loss': 1.0230664, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 45.01492}
+DNN[8, 8, 8, 6]: {'average_loss': 0.83880043, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.90722}
+DNN[8, 8, 8, 7]: {'average_loss': 0.7977933, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 35.102905}
+DNN[8, 8, 8, 8]: {'average_loss': 0.7979298, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.108913}
+DNN[8, 8, 8, 9]: {'average_loss': 0.8987175, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.54357}
+DNN[8, 8, 8, 10]: {'average_loss': 1.2717553, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 55.957233}
+DNN[8, 8, 9, 5]: {'average_loss': 0.90804994, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 39.954197}
+DNN[8, 8, 9, 6]: {'average_loss': 0.8307658, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.553696}
+DNN[8, 8, 9, 7]: {'average_loss': 0.89443547, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.35516}
+DNN[8, 8, 9, 8]: {'average_loss': 0.88172895, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 38.796074}
+DNN[8, 8, 9, 9]: {'average_loss': 1.002964, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 44.130417}
+DNN[8, 8, 9, 10]: {'average_loss': 0.76210254, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.532513}
+DNN[8, 8, 10, 5]: {'average_loss': 0.8390491, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91816}
+DNN[8, 8, 10, 6]: {'average_loss': 0.8126068, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.7547}
+DNN[8, 8, 10, 7]: {'average_loss': 0.8233124, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.225746}
+DNN[8, 8, 10, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 8, 10, 9]: {'average_loss': 0.83899367, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91572}
+DNN[8, 8, 10, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[8, 9, 5, 5]: {'average_loss': 0.8322168, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.61754}
+DNN[8, 9, 5, 6]: {'average_loss': 0.9686747, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 42.62169}
+DNN[8, 9, 5, 7]: {'average_loss': 0.8390034, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91615}
+DNN[8, 9, 5, 8]: {'average_loss': 0.8391084, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92077}
+DNN[8, 9, 5, 9]: {'average_loss': 0.857111, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.712883}
+DNN[8, 9, 5, 10]: {'average_loss': 0.8452653, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.191673}
+DNN[8, 9, 6, 5]: {'average_loss': 0.79825306, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.123135}
+DNN[8, 9, 6, 6]: {'average_loss': 0.7307205, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.151703}
+DNN[8, 9, 6, 7]: {'average_loss': 1.1724162, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 51.586315}
+DNN[8, 9, 6, 8]: {'average_loss': 0.6817841, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 29.9985}
+DNN[8, 9, 6, 9]: {'average_loss': 0.9087469, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 39.984863}
+DNN[8, 9, 6, 10]: {'average_loss': 0.97001344, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 42.68059}
+DNN[8, 9, 7, 5]: {'average_loss': 0.77046496, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.90046}
+DNN[8, 9, 7, 6]: {'average_loss': 0.7152622, 'accuracy': 0.75, 'global_step': 1000, 'loss': 31.471535}
+DNN[8, 9, 7, 7]: {'average_loss': 0.72929156, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.08883}
+DNN[8, 9, 7, 8]: {'average_loss': 0.95660853, 'accuracy': 0.5, 'global_step': 1000, 'loss': 42.090775}
+DNN[8, 9, 7, 9]: {'average_loss': 0.78484, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.53296}
+DNN[8, 9, 7, 10]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[8, 9, 8, 5]: {'average_loss': 0.8390373, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91764}
+DNN[8, 9, 8, 6]: {'average_loss': 0.8311147, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.569046}
+DNN[8, 9, 8, 7]: {'average_loss': 0.77976245, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 34.309547}
+DNN[8, 9, 8, 8]: {'average_loss': 0.88666075, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.013073}
+DNN[8, 9, 8, 9]: {'average_loss': 0.783469, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.472637}
+DNN[8, 9, 8, 10]: {'average_loss': 0.9540587, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 41.978584}
+DNN[8, 9, 9, 5]: {'average_loss': 0.73378396, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 32.286495}
+DNN[8, 9, 9, 6]: {'average_loss': 0.8386533, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.900745}
+DNN[8, 9, 9, 7]: {'average_loss': 0.6893172, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 30.329958}
+DNN[8, 9, 9, 8]: {'average_loss': 1.0068243, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 44.300266}
+DNN[8, 9, 9, 9]: {'average_loss': 0.8960691, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.42704}
+DNN[8, 9, 9, 10]: {'average_loss': 0.93062574, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.947533}
+DNN[8, 9, 10, 5]: {'average_loss': 0.81403905, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.81772}
+DNN[8, 9, 10, 6]: {'average_loss': 0.8138138, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.807808}
+DNN[8, 9, 10, 7]: {'average_loss': 0.8045649, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.400856}
+DNN[8, 9, 10, 8]: {'average_loss': 0.81660765, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 35.930737}
+DNN[8, 9, 10, 9]: {'average_loss': 0.836985, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.82734}
+DNN[8, 9, 10, 10]: {'average_loss': 0.9296013, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 40.90246}
+DNN[8, 10, 5, 5]: {'average_loss': 0.727326, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.002342}
+DNN[8, 10, 5, 6]: {'average_loss': 0.7745907, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.08199}
+DNN[8, 10, 5, 7]: {'average_loss': 0.7956913, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.010418}
+DNN[8, 10, 5, 8]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[8, 10, 5, 9]: {'average_loss': 0.897315, 'accuracy': 0.5, 'global_step': 1000, 'loss': 39.48186}
+DNN[8, 10, 5, 10]: {'average_loss': 0.76501775, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.66078}
+DNN[8, 10, 6, 5]: {'average_loss': 0.8392265, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.925964}
+DNN[8, 10, 6, 6]: {'average_loss': 0.8059576, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.462135}
+DNN[8, 10, 6, 7]: {'average_loss': 0.8352779, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.752228}
+DNN[8, 10, 6, 8]: {'average_loss': 0.7676578, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.776943}
+DNN[8, 10, 6, 9]: {'average_loss': 0.9806376, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.148056}
+DNN[8, 10, 6, 10]: {'average_loss': 0.8731573, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.418922}
+DNN[8, 10, 7, 5]: {'average_loss': 0.83904266, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917877}
+DNN[8, 10, 7, 6]: {'average_loss': 1.1533895, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 50.749138}
+DNN[8, 10, 7, 7]: {'average_loss': 0.8500726, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 37.403194}
+DNN[8, 10, 7, 8]: {'average_loss': 0.9190079, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 40.436348}
+DNN[8, 10, 7, 9]: {'average_loss': 0.91878563, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.426567}
+DNN[8, 10, 7, 10]: {'average_loss': 0.7046559, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 31.004858}
+DNN[8, 10, 8, 5]: {'average_loss': 0.83899784, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915905}
+DNN[8, 10, 8, 6]: {'average_loss': 0.77765787, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.216946}
+DNN[8, 10, 8, 7]: {'average_loss': 0.865957, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.102108}
+DNN[8, 10, 8, 8]: {'average_loss': 1.1729444, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 51.609554}
+DNN[8, 10, 8, 9]: {'average_loss': 0.9376452, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 41.25639}
+DNN[8, 10, 8, 10]: {'average_loss': 1.0744416, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 47.27543}
+DNN[8, 10, 9, 5]: {'average_loss': 0.87187845, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.36265}
+DNN[8, 10, 9, 6]: {'average_loss': 0.9817095, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 43.195217}
+DNN[8, 10, 9, 7]: {'average_loss': 0.8389998, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915993}
+DNN[8, 10, 9, 8]: {'average_loss': 0.866, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.104}
+DNN[8, 10, 9, 9]: {'average_loss': 0.83935, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9314}
+DNN[8, 10, 9, 10]: {'average_loss': 0.8503699, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.416275}
+DNN[8, 10, 10, 5]: {'average_loss': 1.6285545, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 71.656395}
+DNN[8, 10, 10, 6]: {'average_loss': 0.8033583, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.347767}
+DNN[8, 10, 10, 7]: {'average_loss': 1.0250823, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.103622}
+DNN[8, 10, 10, 8]: {'average_loss': 1.2296307, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 54.103752}
+DNN[8, 10, 10, 9]: {'average_loss': 0.7647237, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 33.647842}
+DNN[8, 10, 10, 10]: {'average_loss': 0.8133564, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.78768}
+DNN[9, 5, 5, 5]: {'average_loss': 1.0877312, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 47.860176}
+DNN[9, 5, 5, 6]: {'average_loss': 0.8390163, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916718}
+DNN[9, 5, 5, 7]: {'average_loss': 0.8428908, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.087196}
+DNN[9, 5, 5, 8]: {'average_loss': 0.85289836, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 37.527527}
+DNN[9, 5, 5, 9]: {'average_loss': 0.8390946, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920162}
+DNN[9, 5, 5, 10]: {'average_loss': 0.83933187, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.930603}
+DNN[9, 5, 6, 5]: {'average_loss': 0.871182, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.33201}
+DNN[9, 5, 6, 6]: {'average_loss': 0.7665943, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.73015}
+DNN[9, 5, 6, 7]: {'average_loss': 0.83905447, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.918396}
+DNN[9, 5, 6, 8]: {'average_loss': 1.1762059, 'accuracy': 0.5, 'global_step': 1000, 'loss': 51.75306}
+DNN[9, 5, 6, 9]: {'average_loss': 0.8814983, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.785923}
+DNN[9, 5, 6, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[9, 5, 7, 5]: {'average_loss': 0.75663847, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.29209}
+DNN[9, 5, 7, 6]: {'average_loss': 0.80884576, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.589214}
+DNN[9, 5, 7, 7]: {'average_loss': 0.7169481, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 31.545715}
+DNN[9, 5, 7, 8]: {'average_loss': 0.8383425, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.88707}
+DNN[9, 5, 7, 9]: {'average_loss': 0.85426086, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.58748}
+DNN[9, 5, 7, 10]: {'average_loss': 0.9376402, 'accuracy': 0.5, 'global_step': 1000, 'loss': 41.25617}
+DNN[9, 5, 8, 5]: {'average_loss': 1.0354476, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 45.559696}
+DNN[9, 5, 8, 6]: {'average_loss': 0.7868055, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.619442}
+DNN[9, 5, 8, 7]: {'average_loss': 0.77359146, 'accuracy': 0.75, 'global_step': 1000, 'loss': 34.038025}
+DNN[9, 5, 8, 8]: {'average_loss': 0.83565325, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.76874}
+DNN[9, 5, 8, 9]: {'average_loss': 0.78085905, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.3578}
+DNN[9, 5, 8, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[9, 5, 9, 5]: {'average_loss': 0.82694966, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.385784}
+DNN[9, 5, 9, 6]: {'average_loss': 0.8118796, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.722702}
+DNN[9, 5, 9, 7]: {'average_loss': 0.83903867, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9177}
+DNN[9, 5, 9, 8]: {'average_loss': 0.93943197, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 41.335007}
+DNN[9, 5, 9, 9]: {'average_loss': 0.7644675, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.63657}
+DNN[9, 5, 9, 10]: {'average_loss': 1.3405529, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 58.98433}
+DNN[9, 5, 10, 5]: {'average_loss': 0.8587608, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.785473}
+DNN[9, 5, 10, 6]: {'average_loss': 0.8267512, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.377052}
+DNN[9, 5, 10, 7]: {'average_loss': 0.82188964, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.163143}
+DNN[9, 5, 10, 8]: {'average_loss': 0.6858024, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 30.175304}
+DNN[9, 5, 10, 9]: {'average_loss': 0.8642625, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.02755}
+DNN[9, 5, 10, 10]: {'average_loss': 0.8386435, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.900314}
+DNN[9, 6, 5, 5]: {'average_loss': 0.8061237, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.46944}
+DNN[9, 6, 5, 6]: {'average_loss': 0.8390654, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.918877}
+DNN[9, 6, 5, 7]: {'average_loss': 0.7349314, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.336983}
+DNN[9, 6, 5, 8]: {'average_loss': 0.8681715, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.199547}
+DNN[9, 6, 5, 9]: {'average_loss': 0.9536305, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 41.959743}
+DNN[9, 6, 5, 10]: {'average_loss': 0.8426791, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.07788}
+DNN[9, 6, 6, 5]: {'average_loss': 0.7113753, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 31.300514}
+DNN[9, 6, 6, 6]: {'average_loss': 0.8389962, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915833}
+DNN[9, 6, 6, 7]: {'average_loss': 0.9624918, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.34964}
+DNN[9, 6, 6, 8]: {'average_loss': 0.73018664, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 32.128212}
+DNN[9, 6, 6, 9]: {'average_loss': 0.89283985, 'accuracy': 0.5, 'global_step': 1000, 'loss': 39.284954}
+DNN[9, 6, 6, 10]: {'average_loss': 0.8512735, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.45603}
+DNN[9, 6, 7, 5]: {'average_loss': 0.81738955, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.96514}
+DNN[9, 6, 7, 6]: {'average_loss': 0.8797613, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.709496}
+DNN[9, 6, 7, 7]: {'average_loss': 0.8851313, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.945778}
+DNN[9, 6, 7, 8]: {'average_loss': 0.819672, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 36.065567}
+DNN[9, 6, 7, 9]: {'average_loss': 0.7195765, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 31.661366}
+DNN[9, 6, 7, 10]: {'average_loss': 0.8668978, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.143505}
+DNN[9, 6, 8, 5]: {'average_loss': 0.83298033, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.651134}
+DNN[9, 6, 8, 6]: {'average_loss': 0.8541943, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.58455}
+DNN[9, 6, 8, 7]: {'average_loss': 1.1381487, 'accuracy': 0.5, 'global_step': 1000, 'loss': 50.07854}
+DNN[9, 6, 8, 8]: {'average_loss': 0.81079745, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 35.675087}
+DNN[9, 6, 8, 9]: {'average_loss': 0.76278806, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.562675}
+DNN[9, 6, 8, 10]: {'average_loss': 0.9341549, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 41.102818}
+DNN[9, 6, 9, 5]: {'average_loss': 0.8130919, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.776043}
+DNN[9, 6, 9, 6]: {'average_loss': 0.8210733, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.127224}
+DNN[9, 6, 9, 7]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[9, 6, 9, 8]: {'average_loss': 0.8630154, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.97268}
+DNN[9, 6, 9, 9]: {'average_loss': 0.8075292, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.531284}
+DNN[9, 6, 9, 10]: {'average_loss': 0.8390184, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91681}
+DNN[9, 6, 10, 5]: {'average_loss': 0.81261176, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.754917}
+DNN[9, 6, 10, 6]: {'average_loss': 0.90084684, 'accuracy': 0.5, 'global_step': 1000, 'loss': 39.63726}
+DNN[9, 6, 10, 7]: {'average_loss': 1.1262176, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 49.553574}
+DNN[9, 6, 10, 8]: {'average_loss': 0.7380518, 'accuracy': 0.75, 'global_step': 1000, 'loss': 32.474277}
+DNN[9, 6, 10, 9]: {'average_loss': 0.75044155, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.01943}
+DNN[9, 6, 10, 10]: {'average_loss': 0.83586407, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.77802}
+DNN[9, 7, 5, 5]: {'average_loss': 0.8395771, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.94139}
+DNN[9, 7, 5, 6]: {'average_loss': 0.8190037, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.036163}
+DNN[9, 7, 5, 7]: {'average_loss': 0.8479529, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.30993}
+DNN[9, 7, 5, 8]: {'average_loss': 0.90676045, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.89746}
+DNN[9, 7, 5, 9]: {'average_loss': 0.8778029, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.62333}
+DNN[9, 7, 5, 10]: {'average_loss': 0.72119004, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 31.732363}
+DNN[9, 7, 6, 5]: {'average_loss': 0.79588246, 'accuracy': 0.5, 'global_step': 1000, 'loss': 35.01883}
+DNN[9, 7, 6, 6]: {'average_loss': 0.8622439, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.938732}
+DNN[9, 7, 6, 7]: {'average_loss': 0.79322565, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.901928}
+DNN[9, 7, 6, 8]: {'average_loss': 0.8391859, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92418}
+DNN[9, 7, 6, 9]: {'average_loss': 0.83776814, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.861797}
+DNN[9, 7, 6, 10]: {'average_loss': 1.005943, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 44.26149}
+DNN[9, 7, 7, 5]: {'average_loss': 0.8390968, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920258}
+DNN[9, 7, 7, 6]: {'average_loss': 0.83665776, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.812943}
+DNN[9, 7, 7, 7]: {'average_loss': 0.8390332, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91746}
+DNN[9, 7, 7, 8]: {'average_loss': 0.99157447, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 43.629276}
+DNN[9, 7, 7, 9]: {'average_loss': 0.8245623, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.280743}
+DNN[9, 7, 7, 10]: {'average_loss': 0.79143375, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.823086}
+DNN[9, 7, 8, 5]: {'average_loss': 1.1646342, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 51.243904}
+DNN[9, 7, 8, 6]: {'average_loss': 0.8545404, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.599777}
+DNN[9, 7, 8, 7]: {'average_loss': 0.8436151, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.119064}
+DNN[9, 7, 8, 8]: {'average_loss': 1.0256025, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.126507}
+DNN[9, 7, 8, 9]: {'average_loss': 0.8163784, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.92065}
+DNN[9, 7, 8, 10]: {'average_loss': 0.8389936, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915718}
+DNN[9, 7, 9, 5]: {'average_loss': 0.6954971, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 30.601871}
+DNN[9, 7, 9, 6]: {'average_loss': 0.8620056, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.928246}
+DNN[9, 7, 9, 7]: {'average_loss': 0.8389944, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915752}
+DNN[9, 7, 9, 8]: {'average_loss': 0.82814366, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.43832}
+DNN[9, 7, 9, 9]: {'average_loss': 0.8663669, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.120144}
+DNN[9, 7, 9, 10]: {'average_loss': 0.9307779, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.954227}
+DNN[9, 7, 10, 5]: {'average_loss': 1.1193389, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 49.25091}
+DNN[9, 7, 10, 6]: {'average_loss': 0.8589313, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.792976}
+DNN[9, 7, 10, 7]: {'average_loss': 0.74626726, 'accuracy': 0.75, 'global_step': 1000, 'loss': 32.83576}
+DNN[9, 7, 10, 8]: {'average_loss': 0.81411266, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.820957}
+DNN[9, 7, 10, 9]: {'average_loss': 0.96545947, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 42.480217}
+DNN[9, 7, 10, 10]: {'average_loss': 1.0173138, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 44.76181}
+DNN[9, 8, 5, 5]: {'average_loss': 1.1704888, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 51.501507}
+DNN[9, 8, 5, 6]: {'average_loss': 0.84506035, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.182655}
+DNN[9, 8, 5, 7]: {'average_loss': 1.0527961, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 46.32303}
+DNN[9, 8, 5, 8]: {'average_loss': 0.8504942, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.421745}
+DNN[9, 8, 5, 9]: {'average_loss': 0.9810633, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.166786}
+DNN[9, 8, 5, 10]: {'average_loss': 0.73564565, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 32.36841}
+DNN[9, 8, 6, 5]: {'average_loss': 0.8815342, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.787506}
+DNN[9, 8, 6, 6]: {'average_loss': 0.9027857, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.722572}
+DNN[9, 8, 6, 7]: {'average_loss': 0.850926, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.440742}
+DNN[9, 8, 6, 8]: {'average_loss': 0.91003567, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.04157}
+DNN[9, 8, 6, 9]: {'average_loss': 0.83765256, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.856712}
+DNN[9, 8, 6, 10]: {'average_loss': 1.0174552, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 44.76803}
+DNN[9, 8, 7, 5]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[9, 8, 7, 6]: {'average_loss': 0.83901334, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916588}
+DNN[9, 8, 7, 7]: {'average_loss': 0.83911514, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.921066}
+DNN[9, 8, 7, 8]: {'average_loss': 1.1050462, 'accuracy': 0.4090909, 'global_step': 1000, 'loss': 48.622032}
+DNN[9, 8, 7, 9]: {'average_loss': 0.8934393, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.31133}
+DNN[9, 8, 7, 10]: {'average_loss': 0.8377453, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.860794}
+DNN[9, 8, 8, 5]: {'average_loss': 0.7572466, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 33.31885}
+DNN[9, 8, 8, 6]: {'average_loss': 0.83911777, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92118}
+DNN[9, 8, 8, 7]: {'average_loss': 1.2773765, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 56.204567}
+DNN[9, 8, 8, 8]: {'average_loss': 0.8491785, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.363853}
+DNN[9, 8, 8, 9]: {'average_loss': 0.9439817, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 41.535194}
+DNN[9, 8, 8, 10]: {'average_loss': 0.83899367, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91572}
+DNN[9, 8, 9, 5]: {'average_loss': 0.8501044, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.404594}
+DNN[9, 8, 9, 6]: {'average_loss': 0.9185962, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 40.418232}
+DNN[9, 8, 9, 7]: {'average_loss': 0.84321094, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.10128}
+DNN[9, 8, 9, 8]: {'average_loss': 1.2928247, 'accuracy': 0.75, 'global_step': 1000, 'loss': 56.88429}
+DNN[9, 8, 9, 9]: {'average_loss': 0.84072787, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.992027}
+DNN[9, 8, 9, 10]: {'average_loss': 1.6450291, 'accuracy': 0.5, 'global_step': 1000, 'loss': 72.38128}
+DNN[9, 8, 10, 5]: {'average_loss': 0.83904856, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.918137}
+DNN[9, 8, 10, 6]: {'average_loss': 0.8673739, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.16445}
+DNN[9, 8, 10, 7]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[9, 8, 10, 8]: {'average_loss': 0.8322609, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.61948}
+DNN[9, 8, 10, 9]: {'average_loss': 0.8651437, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.066322}
+DNN[9, 8, 10, 10]: {'average_loss': 0.9468689, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 41.66223}
+DNN[9, 9, 5, 5]: {'average_loss': 0.8375498, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.852192}
+DNN[9, 9, 5, 6]: {'average_loss': 0.85093194, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.441006}
+DNN[9, 9, 5, 7]: {'average_loss': 0.90486073, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.813873}
+DNN[9, 9, 5, 8]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[9, 9, 5, 9]: {'average_loss': 0.887155, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 39.03482}
+DNN[9, 9, 5, 10]: {'average_loss': 0.8650003, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.060013}
+DNN[9, 9, 6, 5]: {'average_loss': 1.0852513, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 47.75106}
+DNN[9, 9, 6, 6]: {'average_loss': 0.89330065, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 39.30523}
+DNN[9, 9, 6, 7]: {'average_loss': 0.8108126, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.675755}
+DNN[9, 9, 6, 8]: {'average_loss': 0.8196348, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.06393}
+DNN[9, 9, 6, 9]: {'average_loss': 0.7769863, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.187397}
+DNN[9, 9, 6, 10]: {'average_loss': 0.7659338, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.701088}
+DNN[9, 9, 7, 5]: {'average_loss': 0.8058428, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.457085}
+DNN[9, 9, 7, 6]: {'average_loss': 0.81378627, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.806595}
+DNN[9, 9, 7, 7]: {'average_loss': 0.8808226, 'accuracy': 0.75, 'global_step': 1000, 'loss': 38.756195}
+DNN[9, 9, 7, 8]: {'average_loss': 0.7429642, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 32.690426}
+DNN[9, 9, 7, 9]: {'average_loss': 0.7762751, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.156105}
+DNN[9, 9, 7, 10]: {'average_loss': 0.7203944, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 31.697351}
+DNN[9, 9, 8, 5]: {'average_loss': 0.8364494, 'accuracy': 0.36363637, 'global_step': 1000, 'loss': 36.803772}
+DNN[9, 9, 8, 6]: {'average_loss': 0.84834474, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.327168}
+DNN[9, 9, 8, 7]: {'average_loss': 1.0602102, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 46.64925}
+DNN[9, 9, 8, 8]: {'average_loss': 1.0229564, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.010082}
+DNN[9, 9, 8, 9]: {'average_loss': 0.8672344, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 38.158314}
+DNN[9, 9, 8, 10]: {'average_loss': 0.8874022, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 39.045696}
+DNN[9, 9, 9, 5]: {'average_loss': 0.8232323, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.22222}
+DNN[9, 9, 9, 6]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[9, 9, 9, 7]: {'average_loss': 0.8391424, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.922264}
+DNN[9, 9, 9, 8]: {'average_loss': 0.7889978, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 34.715904}
+DNN[9, 9, 9, 9]: {'average_loss': 1.0330199, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.452873}
+DNN[9, 9, 9, 10]: {'average_loss': 0.8410407, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.00579}
+DNN[9, 9, 10, 5]: {'average_loss': 0.7972575, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.07933}
+DNN[9, 9, 10, 6]: {'average_loss': 0.82573724, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.33244}
+DNN[9, 9, 10, 7]: {'average_loss': 0.78478485, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.530533}
+DNN[9, 9, 10, 8]: {'average_loss': 0.9486109, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 41.73888}
+DNN[9, 9, 10, 9]: {'average_loss': 1.2594141, 'accuracy': 0.5, 'global_step': 1000, 'loss': 55.41422}
+DNN[9, 9, 10, 10]: {'average_loss': 0.7747213, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.087738}
+DNN[9, 10, 5, 5]: {'average_loss': 0.97705305, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 42.990334}
+DNN[9, 10, 5, 6]: {'average_loss': 1.0767144, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 47.375435}
+DNN[9, 10, 5, 7]: {'average_loss': 1.0158801, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 44.698723}
+DNN[9, 10, 5, 8]: {'average_loss': 0.83865243, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.900707}
+DNN[9, 10, 5, 9]: {'average_loss': 0.78625333, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.595146}
+DNN[9, 10, 5, 10]: {'average_loss': 0.83736515, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 36.844067}
+DNN[9, 10, 6, 5]: {'average_loss': 0.77430016, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.069206}
+DNN[9, 10, 6, 6]: {'average_loss': 1.0610987, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 46.688343}
+DNN[9, 10, 6, 7]: {'average_loss': 0.7473961, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 32.88543}
+DNN[9, 10, 6, 8]: {'average_loss': 0.9554762, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.040955}
+DNN[9, 10, 6, 9]: {'average_loss': 1.0780066, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 47.432293}
+DNN[9, 10, 6, 10]: {'average_loss': 0.90984285, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.033085}
+DNN[9, 10, 7, 5]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[9, 10, 7, 6]: {'average_loss': 0.68376595, 'accuracy': 0.75, 'global_step': 1000, 'loss': 30.085703}
+DNN[9, 10, 7, 7]: {'average_loss': 0.7701137, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.885002}
+DNN[9, 10, 7, 8]: {'average_loss': 1.2805139, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 56.34261}
+DNN[9, 10, 7, 9]: {'average_loss': 0.8142938, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 35.828926}
+DNN[9, 10, 7, 10]: {'average_loss': 0.835156, 'accuracy': 0.5, 'global_step': 1000, 'loss': 36.746864}
+DNN[9, 10, 8, 5]: {'average_loss': 0.90659434, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.890152}
+DNN[9, 10, 8, 6]: {'average_loss': 0.7545109, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.19848}
+DNN[9, 10, 8, 7]: {'average_loss': 0.9351965, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 41.148647}
+DNN[9, 10, 8, 8]: {'average_loss': 0.81668574, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 35.934174}
+DNN[9, 10, 8, 9]: {'average_loss': 0.79211277, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 34.852962}
+DNN[9, 10, 8, 10]: {'average_loss': 0.74621886, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.83363}
+DNN[9, 10, 9, 5]: {'average_loss': 0.8335214, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.674942}
+DNN[9, 10, 9, 6]: {'average_loss': 0.8754399, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 38.519356}
+DNN[9, 10, 9, 7]: {'average_loss': 0.7509363, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.0412}
+DNN[9, 10, 9, 8]: {'average_loss': 0.83272433, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.63987}
+DNN[9, 10, 9, 9]: {'average_loss': 0.87892777, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.67282}
+DNN[9, 10, 9, 10]: {'average_loss': 0.8417081, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.035156}
+DNN[9, 10, 10, 5]: {'average_loss': 0.9183672, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.408157}
+DNN[9, 10, 10, 6]: {'average_loss': 0.8390092, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916405}
+DNN[9, 10, 10, 7]: {'average_loss': 0.9442188, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 41.545628}
+DNN[9, 10, 10, 8]: {'average_loss': 0.7371048, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.43261}
+DNN[9, 10, 10, 9]: {'average_loss': 0.97891766, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 43.072376}
+DNN[9, 10, 10, 10]: {'average_loss': 0.8124376, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.747253}
+DNN[10, 5, 5, 5]: {'average_loss': 0.8682492, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 38.202965}
+DNN[10, 5, 5, 6]: {'average_loss': 0.74028033, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.572334}
+DNN[10, 5, 5, 7]: {'average_loss': 0.8619726, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 37.926792}
+DNN[10, 5, 5, 8]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[10, 5, 5, 9]: {'average_loss': 0.8390287, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917263}
+DNN[10, 5, 5, 10]: {'average_loss': 0.76458985, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 33.641953}
+DNN[10, 5, 6, 5]: {'average_loss': 0.83908486, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.919735}
+DNN[10, 5, 6, 6]: {'average_loss': 0.8390039, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.916172}
+DNN[10, 5, 6, 7]: {'average_loss': 0.82577497, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.3341}
+DNN[10, 5, 6, 8]: {'average_loss': 0.8504248, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.418694}
+DNN[10, 5, 6, 9]: {'average_loss': 0.8351257, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.74553}
+DNN[10, 5, 6, 10]: {'average_loss': 0.868145, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.19838}
+DNN[10, 5, 7, 5]: {'average_loss': 0.72163624, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 31.751995}
+DNN[10, 5, 7, 6]: {'average_loss': 0.8389941, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91574}
+DNN[10, 5, 7, 7]: {'average_loss': 0.7828482, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.44532}
+DNN[10, 5, 7, 8]: {'average_loss': 0.716278, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 31.516232}
+DNN[10, 5, 7, 9]: {'average_loss': 0.9870977, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 43.432297}
+DNN[10, 5, 7, 10]: {'average_loss': 0.81335086, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.787437}
+DNN[10, 5, 8, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[10, 5, 8, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 5, 8, 7]: {'average_loss': 0.8386619, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.901123}
+DNN[10, 5, 8, 8]: {'average_loss': 0.7162308, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 31.514154}
+DNN[10, 5, 8, 9]: {'average_loss': 1.0431408, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 45.898193}
+DNN[10, 5, 8, 10]: {'average_loss': 1.3662175, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 60.11357}
+DNN[10, 5, 9, 5]: {'average_loss': 1.2136437, 'accuracy': 0.5, 'global_step': 1000, 'loss': 53.400322}
+DNN[10, 5, 9, 6]: {'average_loss': 0.7674623, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.76834}
+DNN[10, 5, 9, 7]: {'average_loss': 0.83946997, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.93668}
+DNN[10, 5, 9, 8]: {'average_loss': 0.894783, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 39.370453}
+DNN[10, 5, 9, 9]: {'average_loss': 0.75640416, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.281784}
+DNN[10, 5, 9, 10]: {'average_loss': 0.83380437, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.687393}
+DNN[10, 5, 10, 5]: {'average_loss': 1.0111566, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 44.49089}
+DNN[10, 5, 10, 6]: {'average_loss': 0.86224455, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.93876}
+DNN[10, 5, 10, 7]: {'average_loss': 0.82566625, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.329315}
+DNN[10, 5, 10, 8]: {'average_loss': 0.8023743, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.30447}
+DNN[10, 5, 10, 9]: {'average_loss': 0.8396257, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.94353}
+DNN[10, 5, 10, 10]: {'average_loss': 0.91334987, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.187393}
+DNN[10, 6, 5, 5]: {'average_loss': 0.9031772, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.739796}
+DNN[10, 6, 5, 6]: {'average_loss': 0.9627276, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 42.360016}
+DNN[10, 6, 5, 7]: {'average_loss': 0.81010056, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.644424}
+DNN[10, 6, 5, 8]: {'average_loss': 1.0507531, 'accuracy': 0.5, 'global_step': 1000, 'loss': 46.23314}
+DNN[10, 6, 5, 9]: {'average_loss': 0.8418537, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.04156}
+DNN[10, 6, 5, 10]: {'average_loss': 0.84430695, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.149506}
+DNN[10, 6, 6, 5]: {'average_loss': 0.8387253, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.903915}
+DNN[10, 6, 6, 6]: {'average_loss': 0.7935406, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.915787}
+DNN[10, 6, 6, 7]: {'average_loss': 0.78860265, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.698517}
+DNN[10, 6, 6, 8]: {'average_loss': 0.7822397, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.418545}
+DNN[10, 6, 6, 9]: {'average_loss': 0.93429506, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.108982}
+DNN[10, 6, 6, 10]: {'average_loss': 0.8118267, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.720375}
+DNN[10, 6, 7, 5]: {'average_loss': 0.8390236, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917038}
+DNN[10, 6, 7, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 6, 7, 7]: {'average_loss': 0.85598814, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.66348}
+DNN[10, 6, 7, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 6, 7, 9]: {'average_loss': 0.8068807, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.50275}
+DNN[10, 6, 7, 10]: {'average_loss': 0.69701934, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 30.668852}
+DNN[10, 6, 8, 5]: {'average_loss': 0.87214017, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.37417}
+DNN[10, 6, 8, 6]: {'average_loss': 0.8786121, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.65893}
+DNN[10, 6, 8, 7]: {'average_loss': 0.91476977, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.24987}
+DNN[10, 6, 8, 8]: {'average_loss': 0.7825569, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.432503}
+DNN[10, 6, 8, 9]: {'average_loss': 0.86356103, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.996685}
+DNN[10, 6, 8, 10]: {'average_loss': 0.8152189, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.869633}
+DNN[10, 6, 9, 5]: {'average_loss': 0.80568427, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.450108}
+DNN[10, 6, 9, 6]: {'average_loss': 0.70028394, 'accuracy': 0.75, 'global_step': 1000, 'loss': 30.812492}
+DNN[10, 6, 9, 7]: {'average_loss': 0.87009454, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.28416}
+DNN[10, 6, 9, 8]: {'average_loss': 0.8912534, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.21515}
+DNN[10, 6, 9, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 6, 9, 10]: {'average_loss': 0.91637874, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 40.320663}
+DNN[10, 6, 10, 5]: {'average_loss': 0.83903795, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91767}
+DNN[10, 6, 10, 6]: {'average_loss': 0.9654671, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.480553}
+DNN[10, 6, 10, 7]: {'average_loss': 0.82876277, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.46556}
+DNN[10, 6, 10, 8]: {'average_loss': 0.8391731, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.923615}
+DNN[10, 6, 10, 9]: {'average_loss': 0.9099178, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 40.03638}
+DNN[10, 6, 10, 10]: {'average_loss': 0.83889097, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.9112}
+DNN[10, 7, 5, 5]: {'average_loss': 0.95943564, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 42.215168}
+DNN[10, 7, 5, 6]: {'average_loss': 0.8092157, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 35.60549}
+DNN[10, 7, 5, 7]: {'average_loss': 0.8971226, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 39.473396}
+DNN[10, 7, 5, 8]: {'average_loss': 0.8426245, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.075478}
+DNN[10, 7, 5, 9]: {'average_loss': 0.8368504, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.82142}
+DNN[10, 7, 5, 10]: {'average_loss': 0.8502789, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.412273}
+DNN[10, 7, 6, 5]: {'average_loss': 0.96635836, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 42.519768}
+DNN[10, 7, 6, 6]: {'average_loss': 0.76630783, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.717545}
+DNN[10, 7, 6, 7]: {'average_loss': 0.9132168, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.18154}
+DNN[10, 7, 6, 8]: {'average_loss': 0.8241758, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.263733}
+DNN[10, 7, 6, 9]: {'average_loss': 0.8057182, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.4516}
+DNN[10, 7, 6, 10]: {'average_loss': 0.9133047, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 40.185406}
+DNN[10, 7, 7, 5]: {'average_loss': 0.8356828, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.770042}
+DNN[10, 7, 7, 6]: {'average_loss': 0.79198974, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 34.84755}
+DNN[10, 7, 7, 7]: {'average_loss': 0.8336941, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.68254}
+DNN[10, 7, 7, 8]: {'average_loss': 0.909995, 'accuracy': 0.5, 'global_step': 1000, 'loss': 40.03978}
+DNN[10, 7, 7, 9]: {'average_loss': 0.8485626, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.336754}
+DNN[10, 7, 7, 10]: {'average_loss': 0.8641966, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.02465}
+DNN[10, 7, 8, 5]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[10, 7, 8, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 7, 8, 7]: {'average_loss': 0.8730541, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.41438}
+DNN[10, 7, 8, 8]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 7, 8, 9]: {'average_loss': 0.80526537, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.431675}
+DNN[10, 7, 8, 10]: {'average_loss': 0.7916473, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.83248}
+DNN[10, 7, 9, 5]: {'average_loss': 0.81883085, 'accuracy': 0.75, 'global_step': 1000, 'loss': 36.028557}
+DNN[10, 7, 9, 6]: {'average_loss': 0.8417805, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.03834}
+DNN[10, 7, 9, 7]: {'average_loss': 0.8005841, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.2257}
+DNN[10, 7, 9, 8]: {'average_loss': 0.9311129, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 40.968967}
+DNN[10, 7, 9, 9]: {'average_loss': 0.786479, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.605076}
+DNN[10, 7, 9, 10]: {'average_loss': 0.83667356, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 36.813637}
+DNN[10, 7, 10, 5]: {'average_loss': 0.93668556, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 41.214165}
+DNN[10, 7, 10, 6]: {'average_loss': 0.82355, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.2362}
+DNN[10, 7, 10, 7]: {'average_loss': 0.8390477, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.9181}
+DNN[10, 7, 10, 8]: {'average_loss': 0.9451746, 'accuracy': 0.45454547, 'global_step': 1000, 'loss': 41.58768}
+DNN[10, 7, 10, 9]: {'average_loss': 0.80551237, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.442543}
+DNN[10, 7, 10, 10]: {'average_loss': 0.9091993, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 40.00477}
+DNN[10, 8, 5, 5]: {'average_loss': 0.8391063, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920677}
+DNN[10, 8, 5, 6]: {'average_loss': 0.78889424, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 34.711346}
+DNN[10, 8, 5, 7]: {'average_loss': 0.83903104, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917366}
+DNN[10, 8, 5, 8]: {'average_loss': 0.78697467, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 34.626884}
+DNN[10, 8, 5, 9]: {'average_loss': 0.8446787, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.165863}
+DNN[10, 8, 5, 10]: {'average_loss': 0.80792826, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.548843}
+DNN[10, 8, 6, 5]: {'average_loss': 0.9190899, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.439957}
+DNN[10, 8, 6, 6]: {'average_loss': 0.82938725, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.49304}
+DNN[10, 8, 6, 7]: {'average_loss': 0.83899516, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915787}
+DNN[10, 8, 6, 8]: {'average_loss': 0.84154886, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 37.02815}
+DNN[10, 8, 6, 9]: {'average_loss': 0.96134603, 'accuracy': 0.5, 'global_step': 1000, 'loss': 42.299225}
+DNN[10, 8, 6, 10]: {'average_loss': 0.8548424, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 37.613068}
+DNN[10, 8, 7, 5]: {'average_loss': 0.9911617, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 43.611115}
+DNN[10, 8, 7, 6]: {'average_loss': 0.7845984, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 34.52233}
+DNN[10, 8, 7, 7]: {'average_loss': 0.79699767, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.067898}
+DNN[10, 8, 7, 8]: {'average_loss': 0.9389555, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 41.31404}
+DNN[10, 8, 7, 9]: {'average_loss': 0.85163367, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.47188}
+DNN[10, 8, 7, 10]: {'average_loss': 0.8391088, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920788}
+DNN[10, 8, 8, 5]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 8, 8, 6]: {'average_loss': 0.88036937, 'accuracy': 0.5, 'global_step': 1000, 'loss': 38.73625}
+DNN[10, 8, 8, 7]: {'average_loss': 0.78249013, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.429565}
+DNN[10, 8, 8, 8]: {'average_loss': 0.7810379, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.36567}
+DNN[10, 8, 8, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 8, 8, 10]: {'average_loss': 1.0087968, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 44.387062}
+DNN[10, 8, 9, 5]: {'average_loss': 0.839119, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.921238}
+DNN[10, 8, 9, 6]: {'average_loss': 1.2140625, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 53.418747}
+DNN[10, 8, 9, 7]: {'average_loss': 0.8979908, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 39.511597}
+DNN[10, 8, 9, 8]: {'average_loss': 0.76146144, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 33.504303}
+DNN[10, 8, 9, 9]: {'average_loss': 0.8250429, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.301888}
+DNN[10, 8, 9, 10]: {'average_loss': 0.9721596, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 42.775024}
+DNN[10, 8, 10, 5]: {'average_loss': 0.83903193, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.917404}
+DNN[10, 8, 10, 6]: {'average_loss': 0.8506548, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.42881}
+DNN[10, 8, 10, 7]: {'average_loss': 0.8693361, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.25079}
+DNN[10, 8, 10, 8]: {'average_loss': 1.1354579, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 49.960144}
+DNN[10, 8, 10, 9]: {'average_loss': 0.83899635, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91584}
+DNN[10, 8, 10, 10]: {'average_loss': 0.86989874, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.275543}
+DNN[10, 9, 5, 5]: {'average_loss': 0.8944436, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.35552}
+DNN[10, 9, 5, 6]: {'average_loss': 0.82524526, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 36.31079}
+DNN[10, 9, 5, 7]: {'average_loss': 0.7949309, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.97696}
+DNN[10, 9, 5, 8]: {'average_loss': 0.7849888, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.53951}
+DNN[10, 9, 5, 9]: {'average_loss': 0.6965266, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 30.647171}
+DNN[10, 9, 5, 10]: {'average_loss': 1.0608745, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 46.678474}
+DNN[10, 9, 6, 5]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[10, 9, 6, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 9, 6, 7]: {'average_loss': 0.81216294, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.73517}
+DNN[10, 9, 6, 8]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[10, 9, 6, 9]: {'average_loss': 0.9867349, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 43.416336}
+DNN[10, 9, 6, 10]: {'average_loss': 0.86937404, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 38.252457}
+DNN[10, 9, 7, 5]: {'average_loss': 0.6933773, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 30.508602}
+DNN[10, 9, 7, 6]: {'average_loss': 0.79827315, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.12402}
+DNN[10, 9, 7, 7]: {'average_loss': 0.9846939, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 43.32653}
+DNN[10, 9, 7, 8]: {'average_loss': 0.90523666, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.830414}
+DNN[10, 9, 7, 9]: {'average_loss': 0.8151873, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.86824}
+DNN[10, 9, 7, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 9, 8, 5]: {'average_loss': 0.89041096, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 39.17808}
+DNN[10, 9, 8, 6]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[10, 9, 8, 7]: {'average_loss': 0.7976898, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.09835}
+DNN[10, 9, 8, 8]: {'average_loss': 0.86404705, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.01807}
+DNN[10, 9, 8, 9]: {'average_loss': 1.1973506, 'accuracy': 0.52272725, 'global_step': 1000, 'loss': 52.68343}
+DNN[10, 9, 8, 10]: {'average_loss': 0.868565, 'accuracy': 0.5, 'global_step': 1000, 'loss': 38.21686}
+DNN[10, 9, 9, 5]: {'average_loss': 0.83912814, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.92164}
+DNN[10, 9, 9, 6]: {'average_loss': 0.8419472, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.045677}
+DNN[10, 9, 9, 7]: {'average_loss': 0.81847745, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 36.01301}
+DNN[10, 9, 9, 8]: {'average_loss': 0.8401377, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.96606}
+DNN[10, 9, 9, 9]: {'average_loss': 0.8548454, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 37.613197}
+DNN[10, 9, 9, 10]: {'average_loss': 0.91403615, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 40.21759}
+DNN[10, 9, 10, 5]: {'average_loss': 0.8002542, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 35.211185}
+DNN[10, 9, 10, 6]: {'average_loss': 0.77285904, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 34.0058}
+DNN[10, 9, 10, 7]: {'average_loss': 0.9369381, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 41.225277}
+DNN[10, 9, 10, 8]: {'average_loss': 0.8827228, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.8398}
+DNN[10, 9, 10, 9]: {'average_loss': 0.8461348, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.22993}
+DNN[10, 9, 10, 10]: {'average_loss': 0.9158828, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.298843}
+DNN[10, 10, 5, 5]: {'average_loss': 0.84511715, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.185154}
+DNN[10, 10, 5, 6]: {'average_loss': 0.83921665, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.925533}
+DNN[10, 10, 5, 7]: {'average_loss': 0.8390928, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.920082}
+DNN[10, 10, 5, 8]: {'average_loss': 0.74705607, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 32.87047}
+DNN[10, 10, 5, 9]: {'average_loss': 0.83899385, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91573}
+DNN[10, 10, 5, 10]: {'average_loss': 1.0360012, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 45.584053}
+DNN[10, 10, 6, 5]: {'average_loss': 1.029251, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 45.287045}
+DNN[10, 10, 6, 6]: {'average_loss': 0.9054203, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 39.838493}
+DNN[10, 10, 6, 7]: {'average_loss': 0.81589484, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 35.899372}
+DNN[10, 10, 6, 8]: {'average_loss': 0.83899367, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.91572}
+DNN[10, 10, 6, 9]: {'average_loss': 0.89102006, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 39.204884}
+DNN[10, 10, 6, 10]: {'average_loss': 0.82082784, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 36.116425}
+DNN[10, 10, 7, 5]: {'average_loss': 1.0318236, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 45.400238}
+DNN[10, 10, 7, 6]: {'average_loss': 0.83899397, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915733}
+DNN[10, 10, 7, 7]: {'average_loss': 0.7780048, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.232212}
+DNN[10, 10, 7, 8]: {'average_loss': 0.78157544, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 34.38932}
+DNN[10, 10, 7, 9]: {'average_loss': 1.071962, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 47.16633}
+DNN[10, 10, 7, 10]: {'average_loss': 0.807914, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.548218}
+DNN[10, 10, 8, 5]: {'average_loss': 0.7848213, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.532135}
+DNN[10, 10, 8, 6]: {'average_loss': 0.79968244, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 35.186028}
+DNN[10, 10, 8, 7]: {'average_loss': 0.8037301, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.364124}
+DNN[10, 10, 8, 8]: {'average_loss': 0.97916865, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 43.08342}
+DNN[10, 10, 8, 9]: {'average_loss': 0.9619999, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 42.327995}
+DNN[10, 10, 8, 10]: {'average_loss': 0.9451096, 'accuracy': 0.5, 'global_step': 1000, 'loss': 41.584824}
+DNN[10, 10, 9, 5]: {'average_loss': 0.863044, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.973938}
+DNN[10, 10, 9, 6]: {'average_loss': 0.78521067, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 34.54927}
+DNN[10, 10, 9, 7]: {'average_loss': 0.82890946, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.472015}
+DNN[10, 10, 9, 8]: {'average_loss': 1.0614338, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 46.703087}
+DNN[10, 10, 9, 9]: {'average_loss': 0.87784445, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.625156}
+DNN[10, 10, 9, 10]: {'average_loss': 0.8778298, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.62451}
+DNN[10, 10, 10, 5]: {'average_loss': 0.773169, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.019436}
+DNN[10, 10, 10, 6]: {'average_loss': 1.0285778, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 45.257423}
+DNN[10, 10, 10, 7]: {'average_loss': 0.97355765, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 42.836536}
+DNN[10, 10, 10, 8]: {'average_loss': 0.9191803, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 40.44393}
+DNN[10, 10, 10, 9]: {'average_loss': 0.8533913, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 37.549217}
+DNN[10, 10, 10, 10]: {'average_loss': 1.0489404, 'accuracy': 0.47727272, 'global_step': 1000, 'loss': 46.153378}
+DNN[5, 5, 5, 5]: {'average_loss': 0.6802014, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 29.928862}
+DNN[5, 5, 5, 6]: {'average_loss': 0.80638987, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 35.481155}
+DNN[5, 5, 5, 7]: {'average_loss': 0.7624106, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.546066}
+DNN[5, 5, 5, 8]: {'average_loss': 0.74896264, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 32.954357}
+DNN[5, 5, 5, 9]: {'average_loss': 0.7718813, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 33.962776}
+DNN[5, 5, 5, 10]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 5, 6, 5]: {'average_loss': 0.78392357, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.492638}
+DNN[5, 5, 6, 6]: {'average_loss': 0.74094063, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 32.601387}
+DNN[5, 5, 6, 7]: {'average_loss': 0.83964574, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.944412}
+DNN[5, 5, 6, 8]: {'average_loss': 0.91169167, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 40.114433}
+DNN[5, 5, 6, 9]: {'average_loss': 0.8945801, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 39.361526}
+DNN[5, 5, 6, 10]: {'average_loss': 0.82742023, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.40649}
+DNN[5, 5, 7, 5]: {'average_loss': 0.92077065, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 40.51391}
+DNN[5, 5, 7, 6]: {'average_loss': 0.8709217, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 38.320553}
+DNN[5, 5, 7, 7]: {'average_loss': 0.83160174, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.590477}
+DNN[5, 5, 7, 8]: {'average_loss': 0.8262654, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.35568}
+DNN[5, 5, 7, 9]: {'average_loss': 0.9322267, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 41.017975}
+DNN[5, 5, 7, 10]: {'average_loss': 1.2447344, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 54.768314}
+DNN[5, 5, 8, 5]: {'average_loss': 0.8341051, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.700623}
+DNN[5, 5, 8, 6]: {'average_loss': 0.88028926, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.732727}
+DNN[5, 5, 8, 7]: {'average_loss': 0.8743931, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 38.473297}
+DNN[5, 5, 8, 8]: {'average_loss': 0.81666356, 'accuracy': 0.72727275, 'global_step': 1000, 'loss': 35.933197}
+DNN[5, 5, 8, 9]: {'average_loss': 1.1351695, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 49.94746}
+DNN[5, 5, 8, 10]: {'average_loss': 0.8018023, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 35.2793}
+DNN[5, 5, 9, 5]: {'average_loss': 0.8376493, 'accuracy': 0.5681818, 'global_step': 1000, 'loss': 36.856567}
+DNN[5, 5, 9, 6]: {'average_loss': 0.7971012, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 35.072453}
+DNN[5, 5, 9, 7]: {'average_loss': 0.83871824, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.903603}
+DNN[5, 5, 9, 8]: {'average_loss': 0.7949911, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.979607}
+DNN[5, 5, 9, 9]: {'average_loss': 0.86515164, 'accuracy': 0.5, 'global_step': 1000, 'loss': 38.066673}
+DNN[5, 5, 10, 5]: {'average_loss': 0.85252804, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.511234}
+DNN[7, 10, 5, 7]: {'average_loss': 0.87106705, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 38.32695}
+DNN[7, 10, 5, 8]: {'average_loss': 0.8536985, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 37.562733}
+DNN[7, 10, 5, 9]: {'average_loss': 1.0285892, 'accuracy': 0.4090909, 'global_step': 1000, 'loss': 45.257927}
+DNN[7, 10, 5, 10]: {'average_loss': 0.77326274, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 34.02356}
+DNN[7, 10, 6, 5]: {'average_loss': 0.8389955, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915802}
+DNN[5, 5, 7, 9]: {'average_loss': 0.77393115, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.05297}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8371088, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.832787}
+DNN[5, 5, 7, 9]: {'average_loss': 0.76773244, 'accuracy': 0.6818182, 'global_step': 1000, 'loss': 33.780228}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8389938, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.915726}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8060469, 'accuracy': 0.70454544, 'global_step': 1000, 'loss': 35.466064}
+DNN[5, 5, 7, 9]: {'average_loss': 0.7872069, 'accuracy': 0.65909094, 'global_step': 1000, 'loss': 34.637104}
+DNN[5, 5, 7, 9]: {'average_loss': 0.82084715, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 36.117275}
+DNN[5, 5, 7, 9]: {'average_loss': 0.9251299, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 40.705715}
+DNN[5, 5, 7, 9]: {'average_loss': 0.82466626, 'accuracy': 0.54913294, 'global_step': 1000, 'loss': 142.66727}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8073806, 'accuracy': 0.6069364, 'global_step': 1000, 'loss': 139.67685}
+DNN[5, 5, 7, 9]: {'average_loss': 0.82008713, 'accuracy': 0.57225436, 'global_step': 1000, 'loss': 141.87508}
+DNN[5, 5, 7, 9]: {'average_loss': 0.7773746, 'accuracy': 0.63583815, 'global_step': 1000, 'loss': 134.48581}
+DNN[5, 5, 7, 9]: {'average_loss': 0.9213123, 'accuracy': 0.5260116, 'global_step': 1000, 'loss': 159.38702}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8819823, 'accuracy': 0.58381504, 'global_step': 1000, 'loss': 152.58295}
+DNN[5, 5, 7, 9]: {'average_loss': 1.067469, 'accuracy': 0.54545456, 'global_step': 1000, 'loss': 23.484318}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8250056, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 18.150124}
+DNN[5, 5, 7, 9]: {'average_loss': 0.77199554, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 16.983902}
+DNN[5, 5, 7, 9]: {'average_loss': 0.7240967, 'accuracy': 0.59090906, 'global_step': 1000, 'loss': 15.930128}
+DNN[5, 5, 7, 9]: {'average_loss': 0.882221, 'accuracy': 0.5, 'global_step': 1000, 'loss': 19.408861}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8235901, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 18.118982}
+DNN[5, 5, 7, 9]: {'average_loss': 0.79422647, 'accuracy': 0.6363636, 'global_step': 1000, 'loss': 34.945965}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8302427, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.530678}
+DNN[5, 5, 7, 9]: {'average_loss': 0.8188238, 'accuracy': 0.6136364, 'global_step': 1000, 'loss': 36.028248}
